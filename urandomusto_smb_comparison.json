@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 53606,
+		"ips": 53445,
 		"common": 1
 	},
 	{
@@ -135,12 +135,12 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 10
+		"common": 8
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 7680,
+		"ips": 7936,
 		"common": 11
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 21760,
+		"ips": 22016,
 		"common": 18
 	},
 	{
@@ -177,12 +177,12 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655493095,
-		"common": 10
+		"common": 8
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62582,
+		"ips": 62677,
 		"common": 13
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588669,
+		"ips": 9588667,
 		"common": 1
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2066,
+		"ips": 2059,
 		"common": 1
 	},
 	{
@@ -398,13 +398,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 378,
+		"ips": 375,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 448,
+		"ips": 431,
 		"common": 1
 	},
 	{
@@ -417,13 +417,19 @@
 		"name": "urandomusto_rdp",
 		"category": "attacks",
 		"ips": 169,
+		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 444,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 336,
-		"common": 5
+		"ips": 340,
+		"common": 6
 	},
 	{
 		"name": "voipbl",
