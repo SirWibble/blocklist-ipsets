@@ -152,8 +152,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10662,
-		"common": 1496
+		"ips": 10696,
+		"common": 1500
 	},
 	{
 		"name": "blueliv_crimeserver_last_2d",
@@ -392,7 +392,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 319227,
+		"ips": 319228,
 		"common": 620
 	},
 	{
@@ -566,14 +566,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 165034,
-		"common": 2067
+		"ips": 164984,
+		"common": 2089
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588803,
-		"common": 2154
+		"ips": 9588837,
+		"common": 2157
 	},
 	{
 		"name": "firehol_proxies",
@@ -938,8 +938,8 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 26600,
-		"common": 1442
+		"ips": 26624,
+		"common": 1465
 	},
 	{
 		"name": "openbl_1d",
@@ -950,8 +950,8 @@
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
-		"ips": 6129,
-		"common": 1103
+		"ips": 6073,
+		"common": 1124
 	},
 	{
 		"name": "openbl_360d",
@@ -962,14 +962,14 @@
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
-		"ips": 9677,
-		"common": 1226
+		"ips": 9682,
+		"common": 1249
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
-		"ips": 1644,
-		"common": 744
+		"ips": 1649,
+		"common": 765
 	},
 	{
 		"name": "openbl_90d",
@@ -1596,9 +1596,15 @@
 		"common": 98
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 48,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 150,
+		"ips": 151,
 		"common": 4
 	},
 	{
@@ -1610,7 +1616,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 311,
+		"ips": 310,
 		"common": 6
 	}
 ]
