@@ -26,7 +26,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15160,
+		"ips": 15161,
 		"common": 2
 	},
 	{
@@ -44,13 +44,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45632,
+		"ips": 45619,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33490,
+		"ips": 33478,
 		"common": 1
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20291,
+		"ips": 20330,
 		"common": 1
 	},
 	{
@@ -248,19 +248,25 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205560,
+		"ips": 205547,
 		"common": 3
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484150,
+		"ips": 655484161,
 		"common": 2562
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 58814,
+		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 164701,
+		"ips": 164853,
 		"common": 77
 	},
 	{
@@ -286,6 +292,12 @@
 		"category": "unrouteable",
 		"ips": 629546568,
 		"common": 2
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2070,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ads",
