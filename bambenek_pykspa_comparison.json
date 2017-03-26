@@ -9,13 +9,19 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 340,
-		"common": 4
+		"common": 5
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 66,
+		"common": 1
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -27,42 +33,48 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655484138,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588895,
+		"ips": 9588812,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753591,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15298,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24008,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 32835,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_grm",
 		"category": "spam",
 		"ips": 312,
+		"common": 1
+	},
+	{
+		"name": "hphosts_hjk",
+		"category": "malware",
+		"ips": 57,
 		"common": 1
 	},
 	{
@@ -87,13 +99,13 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -123,6 +135,12 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
+		"common": 1
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 6383,
 		"common": 1
 	}
 ]

@@ -50,25 +50,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 50051,
+		"ips": 49908,
 		"common": 40
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9331,
+		"ips": 9324,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 715,
+		"ips": 711,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 29797,
+		"ips": 29678,
 		"common": 39
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10774,
+		"ips": 10689,
 		"common": 36
 	},
 	{
@@ -111,7 +111,7 @@
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 15144,
-		"common": 817
+		"common": 816
 	},
 	{
 		"name": "botscout_7d",
@@ -225,7 +225,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 319226,
-		"common": 1234
+		"common": 1231
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -297,13 +297,13 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 205571,
-		"common": 3473
+		"common": 3470
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42055,
-		"common": 5344
+		"ips": 42103,
+		"common": 5341
 	},
 	{
 		"name": "firehol_level1",
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59292,
+		"ips": 59152,
 		"common": 40
 	},
 	{
@@ -326,14 +326,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588895,
-		"common": 825
+		"ips": 9588812,
+		"common": 824
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28996,
-		"common": 5344
+		"ips": 28993,
+		"common": 5341
 	},
 	{
 		"name": "firehol_webclient",
@@ -345,7 +345,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753591,
-		"common": 1990
+		"common": 1988
 	},
 	{
 		"name": "gofferje_sip",
@@ -441,7 +441,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 250
+		"common": 249
 	},
 	{
 		"name": "iblocklist_level3",
@@ -524,7 +524,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33139,
+		"ips": 32985,
 		"common": 23
 	},
 	{
@@ -651,7 +651,7 @@
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 6752,
-		"common": 1034
+		"common": 1033
 	},
 	{
 		"name": "proxyspy_7d",
@@ -687,7 +687,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1971
+		"common": 1969
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -752,19 +752,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2369,
+		"ips": 2371,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13195,
+		"ips": 13194,
 		"common": 28
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5458,
+		"ips": 5459,
 		"common": 16
 	},
 	{
@@ -783,7 +783,7 @@
 		"name": "sorbs_new_spam",
 		"category": "spam",
 		"ips": 35223,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "sorbs_noserver",
@@ -795,13 +795,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 56
+		"common": 55
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 47
+		"common": 46
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -843,13 +843,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 162283,
-		"common": 2835
+		"common": 2832
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 286979,
-		"common": 2846
+		"common": 2843
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -861,13 +861,13 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 67486,
-		"common": 2723
+		"common": 2720
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 551072,
-		"common": 2862
+		"common": 2859
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -879,7 +879,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 163222,
-		"common": 2828
+		"common": 2825
 	},
 	{
 		"name": "taichung",
