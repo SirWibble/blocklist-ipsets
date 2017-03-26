@@ -56,13 +56,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52089,
-		"common": 342
+		"ips": 52006,
+		"common": 345
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10498,
+		"ips": 10503,
 		"common": 19
 	},
 	{
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60672,
-		"common": 342
+		"ips": 60589,
+		"common": 345
 	},
 	{
 		"name": "firehol_level3",
@@ -278,7 +278,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588596,
+		"ips": 9588603,
 		"common": 20
 	},
 	{
@@ -351,7 +351,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "iblocklist_level3",
@@ -398,7 +398,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31599,
+		"ips": 31581,
 		"common": 1
 	},
 	{
@@ -483,7 +483,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 30
+		"common": 29
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -502,6 +502,12 @@
 		"category": "spam",
 		"ips": 545338,
 		"common": 4
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 1
 	},
 	{
 		"name": "sp_anti_infringement",
