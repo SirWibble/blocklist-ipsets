@@ -32,44 +32,44 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 334,
-		"common": 329
+		"ips": 182,
+		"common": 181
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 355,
-		"common": 350
+		"ips": 381,
+		"common": 376
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 3130,
+		"ips": 3129,
 		"common": 2180
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 630,
-		"common": 592
+		"ips": 655,
+		"common": 617
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5512,
-		"common": 5512
+		"ips": 5513,
+		"common": 5513
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23253,
-		"common": 6724
+		"ips": 23255,
+		"common": 6723
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
 		"ips": 10940,
-		"common": 6724
+		"common": 6723
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -284,14 +284,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42164,
+		"ips": 42162,
 		"common": 107
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655493079,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "firehol_level2",
@@ -308,13 +308,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588641,
+		"ips": 9588662,
 		"common": 11
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29166,
+		"ips": 29164,
 		"common": 3
 	},
 	{
@@ -375,7 +375,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 189
+		"common": 190
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -453,7 +453,7 @@
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "iblocklist_isp_sprint",
@@ -519,7 +519,7 @@
 		"name": "iblocklist_org_steam",
 		"category": "organizations",
 		"ips": 596440,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -642,6 +642,12 @@
 		"common": 1323
 	},
 	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 11640,
+		"common": 1
+	},
+	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 25311,
@@ -710,7 +716,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5483,
+		"ips": 5481,
 		"common": 3
 	},
 	{
