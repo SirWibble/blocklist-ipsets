@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10610,
+		"ips": 10593,
 		"common": 59
 	},
 	{
@@ -176,50 +176,50 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2487,
-		"common": 148
+		"ips": 2483,
+		"common": 146
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6126,
+		"ips": 6125,
 		"common": 194
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45692,
-		"common": 437
+		"ips": 45670,
+		"common": 438
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20126,
-		"common": 343
+		"ips": 20121,
+		"common": 344
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 487,
+		"ips": 483,
 		"common": 48
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 964,
+		"ips": 957,
 		"common": 70
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21770,
-		"common": 247
+		"ips": 21751,
+		"common": 248
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4797,
-		"common": 119
+		"ips": 4790,
+		"common": 120
 	},
 	{
 		"name": "cleantalk_top20",
@@ -231,24 +231,24 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 100
+		"common": 98
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6004,
+		"ips": 6000,
 		"common": 151
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33558,
+		"ips": 33549,
 		"common": 289
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 18812,
+		"ips": 18808,
 		"common": 280
 	},
 	{
@@ -344,14 +344,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12480,
+		"ips": 12473,
 		"common": 1101
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205562,
-		"common": 911
+		"ips": 205541,
+		"common": 912
 	},
 	{
 		"name": "firehol_anonymous",
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588747,
+		"ips": 9588733,
 		"common": 1092
 	},
 	{
@@ -1144,6 +1144,12 @@
 		"category": "reputation",
 		"ips": 18978,
 		"common": 43
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

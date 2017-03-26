@@ -92,8 +92,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10610,
-		"common": 623
+		"ips": 10593,
+		"common": 622
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -176,73 +176,73 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2487,
-		"common": 34
+		"ips": 2483,
+		"common": 30
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6126,
-		"common": 78
+		"ips": 6125,
+		"common": 77
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45692,
+		"ips": 45670,
 		"common": 312
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20126,
+		"ips": 20121,
 		"common": 198
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 487,
+		"ips": 483,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 964,
-		"common": 16
+		"ips": 957,
+		"common": 15
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21770,
+		"ips": 21751,
 		"common": 99
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4797,
+		"ips": 4790,
 		"common": 51
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 24
+		"common": 20
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6004,
+		"ips": 6000,
 		"common": 62
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33558,
+		"ips": 33549,
 		"common": 246
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 18812,
+		"ips": 18808,
 		"common": 152
 	},
 	{
@@ -428,13 +428,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12480,
-		"common": 174
+		"ips": 12473,
+		"common": 173
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205562,
+		"ips": 205541,
 		"common": 1010
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588747,
+		"ips": 9588733,
 		"common": 785
 	},
 	{
@@ -1353,24 +1353,30 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 367,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 451,
-		"common": 421
+		"ips": 449,
+		"common": 378
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 280
+		"common": 102
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 175,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 449,
 		"common": 1
 	},
 	{

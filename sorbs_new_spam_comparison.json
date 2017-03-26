@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10610,
-		"common": 440
+		"ips": 10593,
+		"common": 438
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -266,61 +266,61 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2487,
-		"common": 11
+		"ips": 2483,
+		"common": 9
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6126,
+		"ips": 6125,
 		"common": 32
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45692,
+		"ips": 45670,
 		"common": 150
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20126,
+		"ips": 20121,
 		"common": 75
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21770,
+		"ips": 21751,
 		"common": 29
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4797,
+		"ips": 4790,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 11
+		"common": 9
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6004,
+		"ips": 6000,
 		"common": 32
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33558,
+		"ips": 33549,
 		"common": 127
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 18812,
+		"ips": 18808,
 		"common": 75
 	},
 	{
@@ -470,13 +470,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12480,
+		"ips": 12473,
 		"common": 84
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205562,
+		"ips": 205541,
 		"common": 1223
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588747,
-		"common": 768
+		"ips": 9588733,
+		"common": 767
 	},
 	{
 		"name": "firehol_proxies",
@@ -1419,12 +1419,18 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 10
+		"common": 22
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 173,
+		"ips": 175,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 449,
 		"common": 1
 	},
 	{
