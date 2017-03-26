@@ -32,8 +32,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 50349,
-		"common": 113
+		"ips": 50373,
+		"common": 112
 	},
 	{
 		"name": "bruteforceblocker",
@@ -93,13 +93,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 22803,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 20240,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "dragon_http",
@@ -156,21 +156,15 @@
 		"common": 2
 	},
 	{
-		"name": "firehol_level1",
-		"category": "attacks",
-		"ips": 655493105,
-		"common": 1
-	},
-	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59588,
-		"common": 113
+		"ips": 59610,
+		"common": 112
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 164156,
+		"ips": 164912,
 		"common": 23
 	},
 	{
@@ -189,7 +183,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095636,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "greensnow",
@@ -225,12 +219,6 @@
 		"name": "iblocklist_isp_aol",
 		"category": "organizations",
 		"ips": 6627584,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_isp_comcast",
-		"category": "organizations",
-		"ips": 45121536,
 		"common": 1
 	},
 	{
@@ -336,12 +324,6 @@
 		"common": 9
 	},
 	{
-		"name": "packetmail",
-		"category": "reputation",
-		"ips": 2557,
-		"common": 1
-	},
-	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 3081,
@@ -357,7 +339,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "sorbs_noserver",
@@ -381,7 +363,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "stopforumspam",
@@ -440,7 +422,7 @@
 	{
 		"name": "voipbl",
 		"category": "attacks",
-		"ips": 25467,
-		"common": 63
+		"ips": 25494,
+		"common": 69
 	}
 ]
