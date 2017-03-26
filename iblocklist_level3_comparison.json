@@ -908,7 +908,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42074,
+		"ips": 42075,
 		"common": 2121
 	},
 	{
@@ -938,7 +938,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29017,
+		"ips": 29018,
 		"common": 1089
 	},
 	{
@@ -950,8 +950,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34753454,
-		"common": 7440844
+		"ips": 34753591,
+		"common": 7440853
 	},
 	{
 		"name": "fullbogons",
@@ -1046,8 +1046,8 @@
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 24124,
-		"common": 1402
+		"ips": 24310,
+		"common": 1403
 	},
 	{
 		"name": "hphosts_wrz",
@@ -1812,9 +1812,15 @@
 		"common": 278
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2379,
+		"ips": 2374,
 		"common": 90
 	},
 	{
@@ -1826,7 +1832,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5458,
+		"ips": 5459,
 		"common": 243
 	},
 	{
@@ -1934,13 +1940,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5368,
+		"ips": 5369,
 		"common": 84
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 759,
+		"ips": 760,
 		"common": 21
 	},
 	{
@@ -2048,7 +2054,7 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 104,
+		"ips": 105,
 		"common": 8
 	},
 	{
