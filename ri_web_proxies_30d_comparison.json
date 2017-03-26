@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10551,
+		"ips": 10499,
 		"common": 39
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42194,
+		"ips": 42195,
 		"common": 4075
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60766,
+		"ips": 60788,
 		"common": 177
 	},
 	{
@@ -368,13 +368,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588651,
+		"ips": 9588603,
 		"common": 832
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29129,
+		"ips": 29130,
 		"common": 4085
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1566,
+		"ips": 1626,
 		"common": 4
 	},
 	{
@@ -608,8 +608,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31809,
-		"common": 71
+		"ips": 31841,
+		"common": 70
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -794,26 +794,26 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 298,
-		"common": 160
+		"ips": 299,
+		"common": 152
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 889,
-		"common": 444
+		"ips": 884,
+		"common": 440
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6760,
-		"common": 2120
+		"ips": 6758,
+		"common": 2121
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
 		"ips": 2375,
-		"common": 984
+		"common": 981
 	},
 	{
 		"name": "proxz",
@@ -1016,8 +1016,8 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 287134,
-		"common": 2619
+		"ips": 286979,
+		"common": 2643
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1034,8 +1034,8 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 551289,
-		"common": 2648
+		"ips": 551072,
+		"common": 2670
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1078,6 +1078,12 @@
 		"category": "reputation",
 		"ips": 18978,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 4
 	},
 	{
 		"name": "xroxy",

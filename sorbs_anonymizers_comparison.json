@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10551,
+		"ips": 10499,
 		"common": 18
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42194,
+		"ips": 42195,
 		"common": 995
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60766,
+		"ips": 60788,
 		"common": 78
 	},
 	{
@@ -536,13 +536,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588651,
+		"ips": 9588603,
 		"common": 288
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29129,
+		"ips": 29130,
 		"common": 990
 	},
 	{
@@ -584,7 +584,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1566,
+		"ips": 1626,
 		"common": 5
 	},
 	{
@@ -872,8 +872,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31809,
-		"common": 42
+		"ips": 31841,
+		"common": 40
 	},
 	{
 		"name": "nullsecure",
@@ -1040,20 +1040,20 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 298,
-		"common": 16
+		"ips": 299,
+		"common": 13
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 889,
+		"ips": 884,
 		"common": 43
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6760,
-		"common": 266
+		"ips": 6758,
+		"common": 265
 	},
 	{
 		"name": "proxyspy_7d",
@@ -1310,8 +1310,8 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 287134,
-		"common": 1663
+		"ips": 286979,
+		"common": 1653
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1328,7 +1328,7 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 551289,
+		"ips": 551072,
 		"common": 4397
 	},
 	{
@@ -1407,18 +1407,12 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 450,
-		"common": 16
+		"common": 3
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 450,
+		"ips": 449,
 		"common": 1
 	},
 	{

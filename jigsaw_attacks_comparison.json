@@ -296,7 +296,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10551,
+		"ips": 10499,
 		"common": 42
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42194,
+		"ips": 42195,
 		"common": 1299
 	},
 	{
@@ -806,7 +806,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60766,
+		"ips": 60788,
 		"common": 129
 	},
 	{
@@ -818,13 +818,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588651,
+		"ips": 9588603,
 		"common": 1380
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29129,
+		"ips": 29130,
 		"common": 94
 	},
 	{
@@ -866,7 +866,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1566,
+		"ips": 1626,
 		"common": 19
 	},
 	{
@@ -1244,7 +1244,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31809,
+		"ips": 31841,
 		"common": 10
 	},
 	{
@@ -1454,7 +1454,7 @@
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6760,
+		"ips": 6758,
 		"common": 1
 	},
 	{
@@ -1640,8 +1640,8 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 287134,
-		"common": 315
+		"ips": 286979,
+		"common": 314
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1658,8 +1658,8 @@
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 551289,
-		"common": 568
+		"ips": 551072,
+		"common": 565
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1742,25 +1742,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 373,
+		"ips": 377,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 435,
-		"common": 2
+		"ips": 437,
+		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 110,
+		"ips": 113,
 		"common": 10
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 165,
+		"ips": 166,
 		"common": 11
 	},
 	{
@@ -1772,14 +1778,14 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 343,
+		"ips": 345,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
 		"ips": 33,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "urlvir",
