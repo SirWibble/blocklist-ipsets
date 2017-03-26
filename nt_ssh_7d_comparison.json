@@ -44,32 +44,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 53445,
-		"common": 121
+		"ips": 53134,
+		"common": 119
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 350,
+		"ips": 347,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2530,
+		"ips": 2526,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 32937,
+		"ips": 32725,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18944,
-		"common": 118
+		"ips": 18848,
+		"common": 116
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -194,13 +194,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62677,
-		"common": 122
+		"ips": 62371,
+		"common": 120
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 164414,
+		"ips": 164418,
 		"common": 88
 	},
 	{
@@ -249,6 +249,12 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 16237,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 6694,
 		"common": 1
 	},
 	{
@@ -368,8 +374,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2527,
-		"common": 7
+		"ips": 2511,
+		"common": 8
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -398,13 +404,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13226,
+		"ips": 13228,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5428,
+		"ips": 5429,
 		"common": 1
 	},
 	{
