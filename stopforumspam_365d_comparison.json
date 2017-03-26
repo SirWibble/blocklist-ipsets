@@ -134,43 +134,43 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9338,
-		"common": 446
+		"ips": 9337,
+		"common": 450
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 22,
-		"common": 8
+		"ips": 21,
+		"common": 7
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 727,
-		"common": 160
+		"ips": 723,
+		"common": 161
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 351,
+		"ips": 355,
 		"common": 23
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2521,
-		"common": 40
+		"ips": 2528,
+		"common": 38
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 30310,
-		"common": 1295
+		"ips": 30135,
+		"common": 1290
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 155,
+		"ips": 153,
 		"common": 3
 	},
 	{
@@ -327,49 +327,49 @@
 		"name": "cleantalk",
 		"category": "abuse",
 		"ips": 2485,
-		"common": 1217
+		"common": 1206
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6104,
-		"common": 2845
+		"ips": 6130,
+		"common": 2849
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45749,
-		"common": 18236
+		"ips": 45750,
+		"common": 18233
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20102,
-		"common": 8310
+		"ips": 20070,
+		"common": 8293
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
 		"ips": 485,
-		"common": 86
+		"common": 84
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 954,
-		"common": 235
+		"ips": 964,
+		"common": 236
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21829,
-		"common": 8476
+		"ips": 21826,
+		"common": 8470
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4807,
-		"common": 1307
+		"ips": 4805,
+		"common": 1302
 	},
 	{
 		"name": "cleantalk_top20",
@@ -381,25 +381,25 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 1131
+		"common": 1122
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6016,
-		"common": 3130
+		"ips": 6038,
+		"common": 3137
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33565,
-		"common": 14115
+		"ips": 33568,
+		"common": 14116
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 18791,
-		"common": 8750
+		"ips": 18752,
+		"common": 8731
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -740,19 +740,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12268,
-		"common": 8196
+		"ips": 12300,
+		"common": 8204
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205739,
-		"common": 169498
+		"ips": 205746,
+		"common": 169500
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42115,
+		"ips": 42118,
 		"common": 10940
 	},
 	{
@@ -782,7 +782,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29019,
+		"ips": 29022,
 		"common": 10139
 	},
 	{
@@ -1617,24 +1617,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 12
+		"common": 26
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2399,
-		"common": 547
+		"ips": 2400,
+		"common": 546
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13209,
+		"ips": 13211,
 		"common": 2694
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5467,
+		"ips": 5469,
 		"common": 1415
 	},
 	{
@@ -1731,24 +1731,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 74
+		"common": 71
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 258,
+		"ips": 259,
 		"common": 152
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5369,
+		"ips": 5370,
 		"common": 2861
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 760,
+		"ips": 761,
 		"common": 365
 	},
 	{
