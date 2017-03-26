@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42065,
+		"ips": 42067,
 		"common": 1
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 24018,
+		"ips": 24019,
 		"common": 57
 	},
 	{
@@ -828,6 +828,12 @@
 		"common": 1
 	},
 	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2977,
+		"common": 1
+	},
+	{
 		"name": "php_harvesters_30d",
 		"category": "spam",
 		"ips": 413,
@@ -842,13 +848,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5220,
+		"ips": 5221,
 		"common": 134
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 420,
+		"ips": 421,
 		"common": 13
 	},
 	{

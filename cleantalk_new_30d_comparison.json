@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42065,
+		"ips": 42067,
 		"common": 3770
 	},
 	{
@@ -536,13 +536,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28958,
+		"ips": 28959,
 		"common": 3630
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 24018,
+		"ips": 24019,
 		"common": 15
 	},
 	{
@@ -932,8 +932,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 3072,
-		"common": 8
+		"ips": 2977,
+		"common": 9
 	},
 	{
 		"name": "php_commenters",
@@ -1082,13 +1082,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5220,
+		"ips": 5221,
 		"common": 6
 	},
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 420,
+		"ips": 421,
 		"common": 1
 	},
 	{
@@ -1158,21 +1158,15 @@
 		"common": 154
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 4
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2296,
+		"ips": 2302,
 		"common": 97
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13194,
+		"ips": 13195,
 		"common": 373
 	},
 	{
@@ -1257,13 +1251,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 43
+		"common": 44
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 259,
-		"common": 81
+		"ips": 256,
+		"common": 79
 	},
 	{
 		"name": "sslproxies_30d",
@@ -1340,26 +1334,26 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 1033,
-		"common": 138
+		"ips": 1035,
+		"common": 137
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1070,
+		"ips": 1071,
 		"common": 147
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2221,
+		"ips": 2219,
 		"common": 358
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1315,
-		"common": 192
+		"common": 190
 	},
 	{
 		"name": "turris_greylist",
