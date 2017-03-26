@@ -50,8 +50,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 100,
-		"common": 100
+		"ips": 88,
+		"common": 88
 	},
 	{
 		"name": "bambenek_bebloh",
@@ -98,13 +98,13 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 99,
-		"common": 99
+		"ips": 104,
+		"common": 98
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 68,
+		"ips": 69,
 		"common": 68
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 334,
+		"ips": 335,
 		"common": 10
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10610,
+		"ips": 10598,
 		"common": 152
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6984,
+		"ips": 6973,
 		"common": 8
 	},
 	{
@@ -842,25 +842,25 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42082,
+		"ips": 42132,
 		"common": 23
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62685,
+		"ips": 62683,
 		"common": 5710
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 164439,
-		"common": 6802
+		"common": 6800
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588680,
+		"ips": 9588669,
 		"common": 6032748
 	},
 	{
@@ -873,7 +873,7 @@
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 23953,
-		"common": 756
+		"common": 754
 	},
 	{
 		"name": "firehol_webserver",
@@ -1128,12 +1128,6 @@
 		"common": 11008
 	},
 	{
-		"name": "iblocklist_isp_suddenlink",
-		"category": "organizations",
-		"ips": 458752,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
@@ -1286,8 +1280,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30535,
-		"common": 80
+		"ips": 31176,
+		"common": 76
 	},
 	{
 		"name": "nt_malware_http",
@@ -1322,7 +1316,7 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 330,
+		"ips": 322,
 		"common": 1
 	},
 	{
@@ -1652,14 +1646,14 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 123,
-		"common": 123
+		"ips": 121,
+		"common": 121
 	},
 	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2684,
-		"common": 693
+		"common": 691
 	},
 	{
 		"name": "sslproxies_30d",
