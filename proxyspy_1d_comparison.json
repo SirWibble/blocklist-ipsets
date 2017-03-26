@@ -8,7 +8,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23284,
+		"ips": 23286,
 		"common": 1
 	},
 	{
@@ -60,21 +60,27 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 53,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1066,
-		"common": 40
+		"ips": 1075,
+		"common": 41
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15119,
-		"common": 243
+		"ips": 15129,
+		"common": 244
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4558,
+		"ips": 4549,
 		"common": 132
 	},
 	{
@@ -188,8 +194,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12084,
-		"common": 227
+		"ips": 12087,
+		"common": 228
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -200,7 +206,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42193,
+		"ips": 42156,
 		"common": 909
 	},
 	{
@@ -218,13 +224,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588756,
-		"common": 246
+		"ips": 9588766,
+		"common": 247
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29099,
+		"ips": 29091,
 		"common": 912
 	},
 	{
@@ -552,21 +558,15 @@
 		"common": 1
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2441,
+		"ips": 2395,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13222,
+		"ips": 13221,
 		"common": 1
 	},
 	{
@@ -621,18 +621,18 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 255,
+		"ips": 254,
 		"common": 58
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5435,
+		"ips": 5424,
 		"common": 133
 	},
 	{
@@ -699,12 +699,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 18978,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 451,
 		"common": 1
 	},
 	{

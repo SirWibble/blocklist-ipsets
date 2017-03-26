@@ -50,13 +50,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15119,
+		"ips": 15129,
 		"common": 1
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4558,
+		"ips": 4549,
 		"common": 1
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42193,
+		"ips": 42156,
 		"common": 1
 	},
 	{
@@ -152,13 +152,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588756,
+		"ips": 9588766,
 		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29099,
+		"ips": 29091,
 		"common": 1
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 3139,
+		"ips": 3081,
 		"common": 2
 	},
 	{
@@ -357,6 +357,12 @@
 		"name": "urandomusto_dns",
 		"category": "attacks",
 		"ips": 104,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
 		"common": 1
 	},
 	{

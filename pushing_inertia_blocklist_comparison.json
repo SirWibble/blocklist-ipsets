@@ -242,19 +242,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5589,
-		"common": 1270
+		"ips": 5584,
+		"common": 1268
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6733,
+		"ips": 6729,
 		"common": 1316
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23284,
+		"ips": 23286,
 		"common": 2332
 	},
 	{
@@ -374,32 +374,32 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7040,
-		"common": 1575
+		"ips": 7034,
+		"common": 1574
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 37,
-		"common": 7
+		"ips": 53,
+		"common": 15
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1066,
-		"common": 292
+		"ips": 1075,
+		"common": 300
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15119,
-		"common": 4147
+		"ips": 15129,
+		"common": 4152
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4558,
-		"common": 1334
+		"ips": 4549,
+		"common": 1331
 	},
 	{
 		"name": "botvrij_dst",
@@ -872,8 +872,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12084,
-		"common": 3574
+		"ips": 12087,
+		"common": 3580
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -884,8 +884,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42193,
-		"common": 6044
+		"ips": 42156,
+		"common": 6038
 	},
 	{
 		"name": "firehol_level1",
@@ -908,14 +908,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588756,
-		"common": 51709
+		"ips": 9588766,
+		"common": 51714
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29099,
-		"common": 3211
+		"ips": 29091,
+		"common": 3206
 	},
 	{
 		"name": "firehol_webclient",
@@ -1142,8 +1142,8 @@
 	{
 		"name": "iblocklist_malc0de",
 		"category": "malware",
-		"ips": 37,
-		"common": 27
+		"ips": 38,
+		"common": 28
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -1418,8 +1418,8 @@
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
-		"ips": 3139,
-		"common": 184
+		"ips": 3081,
+		"common": 171
 	},
 	{
 		"name": "palevo",
@@ -1737,18 +1737,18 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 9
+		"common": 3
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2441,
+		"ips": 2395,
 		"common": 86
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13222,
+		"ips": 13221,
 		"common": 382
 	},
 	{
@@ -1850,14 +1850,14 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 255,
+		"ips": 254,
 		"common": 56
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5435,
-		"common": 2009
+		"ips": 5424,
+		"common": 2001
 	},
 	{
 		"name": "sslproxies_7d",
@@ -1940,13 +1940,13 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1063,
+		"ips": 1062,
 		"common": 201
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2217,
+		"ips": 2214,
 		"common": 287
 	},
 	{
@@ -1976,20 +1976,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 370,
-		"common": 31
+		"ips": 371,
+		"common": 33
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 415,
-		"common": 12
+		"ips": 418,
+		"common": 59
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 4
+		"common": 52
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -2000,7 +2000,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 166,
+		"ips": 167,
 		"common": 13
 	},
 	{
@@ -2019,19 +2019,19 @@
 		"name": "urandomusto_ssh",
 		"category": "attacks",
 		"ips": 451,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 449,
-		"common": 3
+		"ips": 448,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 344,
-		"common": 56
+		"ips": 342,
+		"common": 50
 	},
 	{
 		"name": "urlvir",
