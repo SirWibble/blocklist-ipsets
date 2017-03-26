@@ -218,67 +218,67 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2493,
-		"common": 125
+		"ips": 2496,
+		"common": 124
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6127,
+		"ips": 6119,
 		"common": 122
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45743,
+		"ips": 45747,
 		"common": 366
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20089,
+		"ips": 20094,
 		"common": 295
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 964,
+		"ips": 966,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21818,
+		"ips": 21816,
 		"common": 140
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4819,
+		"ips": 4811,
 		"common": 46
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 125
+		"common": 124
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6037,
+		"ips": 6009,
 		"common": 147
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33567,
+		"ips": 33573,
 		"common": 294
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 18759,
+		"ips": 18763,
 		"common": 289
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20240,
+		"ips": 20257,
 		"common": 26
 	},
 	{
@@ -452,13 +452,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12370,
+		"ips": 12347,
 		"common": 429
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205750,
+		"ips": 205589,
 		"common": 772
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484144,
+		"ips": 655484139,
 		"common": 11
 	},
 	{
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 164912,
+		"ips": 165028,
 		"common": 1001
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588838,
+		"ips": 9588847,
 		"common": 510
 	},
 	{
@@ -536,7 +536,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 26003,
+		"ips": 26013,
 		"common": 1
 	},
 	{
@@ -1222,6 +1222,24 @@
 		"category": "reputation",
 		"ips": 18978,
 		"common": 77
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 451,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 447,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
