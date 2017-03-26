@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 9543,
-		"common": 25
+		"common": 24
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -80,7 +80,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1703,
+		"ips": 1700,
 		"common": 1
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22829,
+		"ips": 22813,
 		"common": 4
 	},
 	{
@@ -188,19 +188,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484138,
+		"ips": 655484152,
 		"common": 7
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59152,
+		"ips": 59150,
 		"common": 22
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 165028,
+		"ips": 165030,
 		"common": 51
 	},
 	{
@@ -213,7 +213,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753591,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "gofferje_sip",
@@ -387,7 +387,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "snort_ipfilter",
@@ -429,7 +429,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "sp_atma",
@@ -482,8 +482,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 368,
+		"ips": 367,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -498,15 +504,9 @@
 		"common": 2
 	},
 	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 447,
-		"common": 1
-	},
-	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 447,
 		"common": 1
 	},
 	{
