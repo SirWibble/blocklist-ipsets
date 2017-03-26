@@ -6,6 +6,12 @@
 		"common": 625
 	},
 	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 335,
+		"common": 1
+	},
+	{
 		"name": "bambenek_necurs",
 		"category": "malware",
 		"ips": 10,
@@ -86,26 +92,26 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5588,
+		"ips": 5590,
 		"common": 84
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6746,
+		"ips": 6745,
 		"common": 102
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23284,
+		"ips": 23287,
 		"common": 343
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10968,
-		"common": 160
+		"ips": 10961,
+		"common": 159
 	},
 	{
 		"name": "blocklist_de",
@@ -158,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10606,
+		"ips": 10613,
 		"common": 25
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20096,
+		"ips": 20140,
 		"common": 170
 	},
 	{
@@ -350,7 +356,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 248345,
+		"ips": 248353,
 		"common": 4580
 	},
 	{
@@ -536,37 +542,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42174,
+		"ips": 42172,
 		"common": 307
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655493090,
-		"common": 17
+		"ips": 655493098,
+		"common": 18
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60337,
-		"common": 976
+		"ips": 60333,
+		"common": 975
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 163444,
+		"ips": 163443,
 		"common": 2146
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588711,
+		"ips": 9588715,
 		"common": 558
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29121,
+		"ips": 29119,
 		"common": 254
 	},
 	{
@@ -830,8 +836,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 305,
-		"common": 3
+		"ips": 304,
+		"common": 2
 	},
 	{
 		"name": "openbl_30d",
@@ -972,27 +978,21 @@
 		"common": 13
 	},
 	{
-		"name": "ri_connect_proxies",
-		"category": "anonymizers",
-		"ips": 149,
-		"common": 1
-	},
-	{
 		"name": "ri_connect_proxies_1d",
 		"category": "anonymizers",
-		"ips": 220,
+		"ips": 287,
 		"common": 1
 	},
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2639,
+		"ips": 2627,
 		"common": 3
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 880,
+		"ips": 923,
 		"common": 1
 	},
 	{
