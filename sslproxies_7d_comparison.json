@@ -26,25 +26,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5595,
+		"ips": 5594,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6716,
+		"ips": 6718,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23304,
+		"ips": 23307,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10960,
+		"ips": 10961,
 		"common": 1
 	},
 	{
@@ -56,19 +56,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9324,
+		"ips": 9321,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 711,
+		"ips": 709,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 29678,
+		"ips": 29608,
 		"common": 22
 	},
 	{
@@ -99,19 +99,19 @@
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1093,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 15160,
-		"common": 196
+		"common": 197
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 4549,
-		"common": 134
+		"common": 135
 	},
 	{
 		"name": "cleantalk",
@@ -273,19 +273,19 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 12438,
-		"common": 158
+		"common": 159
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 205577,
-		"common": 416
+		"common": 415
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42049,
-		"common": 752
+		"ips": 42055,
+		"common": 754
 	},
 	{
 		"name": "firehol_level1",
@@ -309,13 +309,13 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9588837,
-		"common": 198
+		"common": 199
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28992,
-		"common": 752
+		"ips": 28998,
+		"common": 754
 	},
 	{
 		"name": "firehol_webclient",
@@ -327,7 +327,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753591,
-		"common": 118
+		"common": 120
 	},
 	{
 		"name": "gofferje_sip",
@@ -345,7 +345,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 51
+		"common": 53
 	},
 	{
 		"name": "iblocklist_edu",
@@ -579,7 +579,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 102
+		"common": 104
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -642,15 +642,21 @@
 		"common": 1
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2372,
+		"ips": 2379,
 		"common": 6
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13193,
+		"ips": 13196,
 		"common": 7
 	},
 	{
@@ -669,7 +675,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -710,26 +716,26 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 256,
-		"common": 256
+		"ips": 259,
+		"common": 259
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5367,
-		"common": 763
+		"ips": 5370,
+		"common": 765
 	},
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 162283,
-		"common": 362
+		"common": 361
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 286979,
-		"common": 363
+		"common": 362
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -741,25 +747,25 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 67486,
-		"common": 339
+		"common": 338
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 551072,
-		"common": 365
+		"common": 364
 	},
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
 		"ips": 17455,
-		"common": 291
+		"common": 290
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 163222,
-		"common": 355
+		"common": 354
 	},
 	{
 		"name": "talosintel_ipfilter",
