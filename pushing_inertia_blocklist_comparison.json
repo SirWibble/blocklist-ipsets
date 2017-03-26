@@ -128,8 +128,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 91,
-		"common": 16
+		"ips": 74,
+		"common": 14
 	},
 	{
 		"name": "bambenek_c2",
@@ -144,22 +144,16 @@
 		"common": 3
 	},
 	{
-		"name": "bambenek_ranbyus",
-		"category": "malware",
-		"ips": 1,
-		"common": 1
-	},
-	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 93,
+		"ips": 100,
 		"common": 24
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 68,
-		"common": 15
+		"ips": 66,
+		"common": 14
 	},
 	{
 		"name": "bambenek_tinba",
@@ -338,7 +332,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10610,
+		"ips": 10628,
 		"common": 1382
 	},
 	{
@@ -680,7 +674,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 248260,
+		"ips": 248261,
 		"common": 2418
 	},
 	{
@@ -896,7 +890,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42157,
+		"ips": 42159,
 		"common": 6065
 	},
 	{
@@ -920,13 +914,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588669,
+		"ips": 9588698,
 		"common": 51692
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 29159,
+		"ips": 29161,
 		"common": 3231
 	},
 	{
@@ -974,7 +968,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 25984,
+		"ips": 25996,
 		"common": 1687
 	},
 	{
@@ -1749,24 +1743,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 4
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2492,
-		"common": 95
+		"ips": 2508,
+		"common": 94
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13241,
+		"ips": 13243,
 		"common": 381
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5438,
+		"ips": 5442,
 		"common": 191
 	},
 	{
@@ -1857,7 +1851,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 21
+		"common": 23
 	},
 	{
 		"name": "sslproxies_1d",
