@@ -165,7 +165,7 @@
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 881,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "et_block",
@@ -194,19 +194,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62823,
-		"common": 24
+		"ips": 62821,
+		"common": 23
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 164413,
-		"common": 49
+		"common": 50
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588669,
+		"ips": 9588685,
 		"common": 7
 	},
 	{
@@ -231,7 +231,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2073,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "haley_ssh",
@@ -273,7 +273,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762625567,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_level2",
@@ -285,7 +285,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -309,7 +309,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "lashback_ubl",
@@ -471,7 +471,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 18978,
-		"common": 60
+		"common": 62
 	},
 	{
 		"name": "urandomusto_dns",
@@ -482,20 +482,26 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 379,
+		"ips": 378,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 450,
-		"common": 3
+		"ips": 448,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
 		"ips": 108,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
@@ -506,8 +512,8 @@
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 32,
-		"common": 2
+		"ips": 31,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
