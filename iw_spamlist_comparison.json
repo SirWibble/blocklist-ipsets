@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52895,
+		"ips": 53031,
 		"common": 26
 	},
 	{
@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10582,
-		"common": 23
+		"ips": 10584,
+		"common": 24
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -68,19 +68,19 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7004,
+		"ips": 7017,
 		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15105,
+		"ips": 15100,
 		"common": 7
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4596,
+		"ips": 4593,
 		"common": 3
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11532,
+		"ips": 11626,
 		"common": 4
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42192,
+		"ips": 42194,
 		"common": 8
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 62134,
+		"ips": 62270,
 		"common": 28
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2063,
+		"ips": 2052,
 		"common": 15
 	},
 	{
@@ -404,8 +404,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31966,
-		"common": 23
+		"ips": 31774,
+		"common": 24
 	},
 	{
 		"name": "nullsecure",
@@ -608,7 +608,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4633,
+		"ips": 4744,
 		"common": 3
 	},
 	{
@@ -670,5 +670,11 @@
 		"category": "anonymizers",
 		"ips": 1315,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	}
 ]
