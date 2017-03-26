@@ -194,7 +194,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10709,
+		"ips": 10773,
 		"common": 1423
 	},
 	{
@@ -434,8 +434,8 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22824,
-		"common": 99
+		"ips": 22847,
+		"common": 100
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -674,8 +674,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41975,
-		"common": 11235
+		"ips": 41964,
+		"common": 11230
 	},
 	{
 		"name": "firehol_level1",
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 58814,
+		"ips": 58812,
 		"common": 1366
 	},
 	{
@@ -698,14 +698,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588905,
+		"ips": 9588967,
 		"common": 14019
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28961,
-		"common": 10529
+		"ips": 28950,
+		"common": 10524
 	},
 	{
 		"name": "firehol_webclient",
@@ -1424,7 +1424,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5221,
+		"ips": 5219,
 		"common": 25
 	},
 	{
@@ -1527,24 +1527,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 27
+		"common": 21
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2208,
-		"common": 538
+		"ips": 2197,
+		"common": 539
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13204,
-		"common": 2520
+		"ips": 13199,
+		"common": 2518
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5457,
+		"ips": 5455,
 		"common": 1355
 	},
 	{
@@ -1635,19 +1635,19 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 81
+		"common": 79
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 251,
-		"common": 149
+		"ips": 246,
+		"common": 148
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5353,
-		"common": 3451
+		"ips": 5347,
+		"common": 3448
 	},
 	{
 		"name": "sslproxies_7d",
