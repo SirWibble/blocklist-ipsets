@@ -14,13 +14,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 49057,
+		"ips": 49008,
 		"common": 7
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28913,
+		"ips": 28849,
 		"common": 7
 	},
 	{
@@ -170,13 +170,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42042,
+		"ips": 42026,
 		"common": 496
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 59068,
+		"ips": 59016,
 		"common": 8
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28951,
+		"ips": 28935,
 		"common": 496
 	},
 	{
@@ -572,13 +572,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 246,
+		"ips": 247,
 		"common": 8
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5347,
+		"ips": 5342,
 		"common": 53
 	},
 	{
@@ -639,6 +639,12 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 25322,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
 		"common": 1
 	},
 	{
