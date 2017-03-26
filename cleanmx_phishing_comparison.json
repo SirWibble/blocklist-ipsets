@@ -63,7 +63,7 @@
 		"name": "bambenek_tinba",
 		"category": "malware",
 		"ips": 4,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -189,6 +189,30 @@
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
+		"common": 1
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 43,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1067,
+		"common": 1
+	},
+	{
+		"name": "botscout_30d",
+		"category": "abuse",
+		"ips": 15110,
+		"common": 1
+	},
+	{
+		"name": "botscout_7d",
+		"category": "abuse",
+		"ips": 4563,
 		"common": 1
 	},
 	{
@@ -462,6 +486,12 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 12039,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 205724,
@@ -470,7 +500,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42189,
+		"ips": 42182,
 		"common": 1
 	},
 	{
@@ -482,7 +512,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60503,
+		"ips": 60519,
 		"common": 4
 	},
 	{
@@ -494,7 +524,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588711,
+		"ips": 9588713,
 		"common": 950
 	},
 	{
