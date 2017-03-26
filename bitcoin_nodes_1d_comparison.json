@@ -45,7 +45,7 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 3131,
-		"common": 2181
+		"common": 2180
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
@@ -56,20 +56,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5476,
-		"common": 5476
+		"ips": 5494,
+		"common": 5494
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23248,
-		"common": 6723
+		"ips": 23244,
+		"common": 6726
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10934,
-		"common": 6723
+		"ips": 10937,
+		"common": 6726
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -117,7 +117,7 @@
 		"name": "bm_tor",
 		"category": "anonymizers",
 		"ips": 7017,
-		"common": 103
+		"common": 102
 	},
 	{
 		"name": "bogons",
@@ -188,8 +188,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7012,
-		"common": 104
+		"ips": 7014,
+		"common": 102
 	},
 	{
 		"name": "dragon_http",
@@ -267,7 +267,7 @@
 		"name": "et_tor",
 		"category": "anonymizers",
 		"ips": 7010,
-		"common": 100
+		"common": 99
 	},
 	{
 		"name": "firehol_abusers_1d",
@@ -284,8 +284,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42194,
-		"common": 108
+		"ips": 42153,
+		"common": 106
 	},
 	{
 		"name": "firehol_level1",
@@ -309,7 +309,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9588646,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_proxies",
@@ -402,6 +402,12 @@
 		"common": 4
 	},
 	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 9145088,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_iana_private",
 		"category": "unroutable",
 		"ips": 51643638,
@@ -489,7 +495,7 @@
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
 		"ips": 6956,
-		"common": 98
+		"common": 97
 	},
 	{
 		"name": "iblocklist_org_blizzard",
