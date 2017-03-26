@@ -50,13 +50,13 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5587,
+		"ips": 5590,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6744,
+		"ips": 6748,
 		"common": 1
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10967,
+		"ips": 10971,
 		"common": 1
 	},
 	{
@@ -759,12 +759,12 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2474,
+		"ips": 2476,
 		"common": 28
 	},
 	{
@@ -832,6 +832,12 @@
 		"category": "reputation",
 		"ips": 25180672,
 		"common": 6
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
 	},
 	{
 		"name": "sslproxies_1d",
