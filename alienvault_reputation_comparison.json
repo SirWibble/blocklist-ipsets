@@ -212,8 +212,8 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9335,
-		"common": 125
+		"ips": 9332,
+		"common": 123
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -230,26 +230,26 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2532,
-		"common": 112
+		"ips": 2517,
+		"common": 111
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 33461,
-		"common": 168
+		"ips": 33178,
+		"common": 167
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 153,
+		"ips": 152,
 		"common": 15
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18815,
-		"common": 1273
+		"ips": 18762,
+		"common": 1272
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -1238,7 +1238,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5220,
+		"ips": 5219,
 		"common": 42
 	},
 	{
@@ -1302,9 +1302,15 @@
 		"common": 27
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2452,
+		"ips": 2451,
 		"common": 2
 	},
 	{
@@ -1316,7 +1322,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5373,
+		"ips": 5374,
 		"common": 3
 	},
 	{

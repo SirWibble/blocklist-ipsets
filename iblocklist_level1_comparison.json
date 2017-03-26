@@ -284,13 +284,13 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9335,
-		"common": 1316
+		"ips": 9332,
+		"common": 1315
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 19,
+		"ips": 18,
 		"common": 2
 	},
 	{
@@ -308,26 +308,26 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2532,
+		"ips": 2517,
 		"common": 30
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 33461,
-		"common": 1606
+		"ips": 33178,
+		"common": 1605
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 153,
+		"ips": 152,
 		"common": 10
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18815,
-		"common": 174
+		"ips": 18762,
+		"common": 173
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -1730,7 +1730,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5220,
+		"ips": 5219,
 		"common": 213
 	},
 	{
@@ -1848,9 +1848,15 @@
 		"common": 158
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2452,
+		"ips": 2451,
 		"common": 16
 	},
 	{
@@ -1862,7 +1868,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5373,
+		"ips": 5374,
 		"common": 57
 	},
 	{
@@ -1959,24 +1965,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 251,
+		"ips": 252,
 		"common": 14
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5491,
+		"ips": 5490,
 		"common": 187
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 779,
+		"ips": 777,
 		"common": 45
 	},
 	{
