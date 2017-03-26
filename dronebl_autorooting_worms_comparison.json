@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10503,
+		"ips": 10551,
 		"common": 5
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15107,
+		"ips": 15112,
 		"common": 1
 	},
 	{
@@ -206,8 +206,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 60742,
-		"common": 17
+		"ips": 61098,
+		"common": 18
 	},
 	{
 		"name": "firehol_level3",
@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588603,
+		"ips": 9588654,
 		"common": 474
 	},
 	{
@@ -244,6 +244,12 @@
 		"category": "attacks",
 		"ips": 1095636,
 		"common": 4
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1566,
+		"common": 2
 	},
 	{
 		"name": "haley_ssh",
