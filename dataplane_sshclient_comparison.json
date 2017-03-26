@@ -74,20 +74,20 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23247,
+		"ips": 23250,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10941,
+		"ips": 10935,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 52734,
-		"common": 6145
+		"ips": 52979,
+		"common": 6152
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10628,
+		"ips": 10631,
 		"common": 364
 	},
 	{
@@ -156,22 +156,28 @@
 		"common": 28
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 42,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1048,
+		"ips": 1061,
 		"common": 12
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15100,
+		"ips": 15107,
 		"common": 40
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4593,
-		"common": 28
+		"ips": 4597,
+		"common": 27
 	},
 	{
 		"name": "bruteforceblocker",
@@ -266,8 +272,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20020,
-		"common": 20019
+		"ips": 20029,
+		"common": 19919
 	},
 	{
 		"name": "dm_tor",
@@ -416,7 +422,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11687,
+		"ips": 11696,
 		"common": 30
 	},
 	{
@@ -434,14 +440,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655493090,
+		"ips": 655493079,
 		"common": 46
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 61970,
-		"common": 6245
+		"ips": 62217,
+		"common": 6252
 	},
 	{
 		"name": "firehol_level3",
@@ -452,7 +458,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588698,
+		"ips": 9588708,
 		"common": 1066
 	},
 	{
@@ -488,8 +494,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2052,
-		"common": 126
+		"ips": 2040,
+		"common": 125
 	},
 	{
 		"name": "haley_ssh",
@@ -752,8 +758,8 @@
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
-		"ips": 310,
-		"common": 157
+		"ips": 312,
+		"common": 156
 	},
 	{
 		"name": "openbl_30d",
