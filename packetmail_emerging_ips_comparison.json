@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42121,
+		"ips": 42115,
 		"common": 3
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28989,
+		"ips": 28983,
 		"common": 1
 	},
 	{
@@ -564,6 +564,12 @@
 		"common": 4
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 263,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 3072,
@@ -578,7 +584,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5220,
+		"ips": 5218,
 		"common": 3
 	},
 	{

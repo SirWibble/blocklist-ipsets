@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42121,
+		"ips": 42115,
 		"common": 1258
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28989,
+		"ips": 28983,
 		"common": 1036
 	},
 	{
@@ -566,7 +566,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095636,
+		"ips": 1095637,
 		"common": 974
 	},
 	{
@@ -960,6 +960,12 @@
 		"common": 2
 	},
 	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 263,
+		"common": 1
+	},
+	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 3072,
@@ -1064,25 +1070,25 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 461,
-		"common": 80
+		"ips": 481,
+		"common": 77
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1220,
+		"ips": 1217,
 		"common": 166
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 4082,
+		"ips": 4075,
 		"common": 295
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 2524,
+		"ips": 2522,
 		"common": 262
 	},
 	{
@@ -1166,7 +1172,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5220,
+		"ips": 5218,
 		"common": 4
 	},
 	{
@@ -1245,24 +1251,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2320,
+		"ips": 2318,
 		"common": 122
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13199,
+		"ips": 13198,
 		"common": 238
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5453,
+		"ips": 5450,
 		"common": 232
 	},
 	{
@@ -1341,7 +1347,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1358,7 +1364,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 759,
+		"ips": 758,
 		"common": 150
 	},
 	{
