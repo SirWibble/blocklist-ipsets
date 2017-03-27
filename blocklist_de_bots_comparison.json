@@ -2,13 +2,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46352,
-		"common": 24
+		"ips": 46174,
+		"common": 26
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 2433,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 26280,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11089,
+		"ips": 11101,
 		"common": 1
 	},
 	{
@@ -140,8 +152,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 57324,
-		"common": 24
+		"ips": 55868,
+		"common": 26
 	},
 	{
 		"name": "firehol_level3",
@@ -152,7 +164,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589321,
+		"ips": 9589333,
 		"common": 9
 	},
 	{
@@ -249,13 +261,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "spamhaus_drop",
@@ -308,13 +320,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 291,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 451,
+		"ips": 288,
 		"common": 1
 	}
 ]
