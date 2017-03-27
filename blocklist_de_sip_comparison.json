@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46525,
-		"common": 96
+		"ips": 46478,
+		"common": 95
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11337,
+		"ips": 11367,
 		"common": 3
 	},
 	{
@@ -182,37 +182,37 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56303,
-		"common": 96
+		"ips": 56255,
+		"common": 95
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 164599,
+		"ips": 164600,
 		"common": 27
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589520,
+		"ips": 9589547,
 		"common": 14
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753500,
-		"common": 32
+		"common": 31
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095638,
-		"common": 38
+		"common": 37
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1465,
+		"ips": 1460,
 		"common": 2
 	},
 	{
@@ -267,7 +267,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -298,6 +298,12 @@
 		"category": "malware",
 		"ips": 59614,
 		"common": 2
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1269796,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -363,7 +369,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 31
+		"common": 30
 	},
 	{
 		"name": "sorbs_dul",
@@ -435,12 +441,12 @@
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 335,
-		"common": 19
+		"common": 18
 	},
 	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 25515,
-		"common": 73
+		"common": 71
 	}
 ]
