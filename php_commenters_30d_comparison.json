@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11346,
+		"ips": 11337,
 		"common": 18
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41333,
+		"ips": 41331,
 		"common": 201
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589528,
+		"ips": 9589519,
 		"common": 240
 	},
 	{
@@ -866,7 +866,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1850,
+		"ips": 1810,
 		"common": 2
 	},
 	{
@@ -1064,8 +1064,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 319,
+		"ips": 318,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 440,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
