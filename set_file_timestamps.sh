@@ -1136,7 +1136,7 @@
 [ -f 'stopforumspam_90d.ipset' ] && /usr/bin/touch --date=@1490572230 'stopforumspam_90d.ipset'
 [ -f 'stopforumspam_toxic.netset' ] && /usr/bin/touch --date=@1467303042 'stopforumspam_toxic.netset'
 [ -f 'taichung.ipset' ] && /usr/bin/touch --date=@1490542597 'taichung.ipset'
-[ -f 'talosintel_ipfilter.ipset' ] && /usr/bin/touch --date=@1490588401 'talosintel_ipfilter.ipset'
+[ -f 'talosintel_ipfilter.ipset' ] && /usr/bin/touch --date=@1490592001 'talosintel_ipfilter.ipset'
 [ -f 'threatcrowd.ipset' ] && /usr/bin/touch --date=@1479291521 'threatcrowd.ipset'
 [ -f 'tor_exits.ipset' ] && /usr/bin/touch --date=@1490590948 'tor_exits.ipset'
 [ -f 'tor_exits_1d.ipset' ] && /usr/bin/touch --date=@1490590948 'tor_exits_1d.ipset'
