@@ -140,14 +140,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46321,
-		"common": 1524
+		"ips": 46224,
+		"common": 1516
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9117,
-		"common": 390
+		"ips": 9102,
+		"common": 387
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -158,38 +158,38 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 531,
-		"common": 104
+		"ips": 518,
+		"common": 101
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 364,
+		"ips": 365,
 		"common": 25
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2420,
+		"ips": 2414,
 		"common": 40
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26299,
-		"common": 1306
+		"ips": 26271,
+		"common": 1302
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 139,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18655,
-		"common": 75
+		"ips": 18605,
+		"common": 74
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -200,8 +200,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10909,
-		"common": 1248
+		"ips": 10939,
+		"common": 1256
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -531,13 +531,13 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 17
+		"common": 22
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 8192,
-		"common": 23
+		"ips": 9984,
+		"common": 29
 	},
 	{
 		"name": "dshield_30d",
@@ -548,7 +548,7 @@
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 20224,
+		"ips": 20736,
 		"common": 118
 	},
 	{
@@ -764,38 +764,38 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41458,
-		"common": 10752
+		"ips": 41438,
+		"common": 10741
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655484165,
-		"common": 9847
+		"common": 9852
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55464,
-		"common": 1601
+		"ips": 57150,
+		"common": 1599
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 163851,
-		"common": 2383
+		"ips": 163854,
+		"common": 2384
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589166,
-		"common": 15371
+		"ips": 9589194,
+		"common": 15377
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28429,
-		"common": 9949
+		"ips": 28409,
+		"common": 9938
 	},
 	{
 		"name": "firehol_webclient",
@@ -1232,8 +1232,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 33073,
-		"common": 853
+		"ips": 33423,
+		"common": 839
 	},
 	{
 		"name": "nt_malware_http",
@@ -1526,7 +1526,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5222,
+		"ips": 5220,
 		"common": 32
 	},
 	{
@@ -1629,24 +1629,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 25
+		"common": 29
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1974,
-		"common": 574
+		"ips": 1959,
+		"common": 573
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13122,
+		"ips": 13124,
 		"common": 2653
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5448,
+		"ips": 5454,
 		"common": 1404
 	},
 	{
@@ -1743,7 +1743,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 64
+		"common": 67
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1754,14 +1754,14 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4925,
-		"common": 2713
+		"ips": 4899,
+		"common": 2699
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 748,
-		"common": 358
+		"ips": 747,
+		"common": 357
 	},
 	{
 		"name": "stopforumspam",
@@ -1814,8 +1814,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 25324,
-		"common": 970
+		"ips": 25327,
+		"common": 971
 	},
 	{
 		"name": "threatcrowd",
