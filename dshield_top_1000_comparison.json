@@ -62,8 +62,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 2421,
-		"common": 31
+		"ips": 2427,
+		"common": 32
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -254,8 +254,8 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 438,
-		"common": 42
+		"ips": 433,
+		"common": 41
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41269,
+		"ips": 41333,
 		"common": 1
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28181,
+		"ips": 28175,
 		"common": 1
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1095638,
+		"ips": 1095641,
 		"common": 17
 	},
 	{
@@ -664,6 +664,12 @@
 		"category": "reputation",
 		"ips": 143,
 		"common": 2
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 285,
+		"common": 1
 	},
 	{
 		"name": "packetmail_ramnode",
