@@ -38,8 +38,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46286,
-		"common": 64
+		"ips": 46267,
+		"common": 63
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -278,8 +278,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55983,
-		"common": 64
+		"ips": 55965,
+		"common": 63
 	},
 	{
 		"name": "firehol_level3",
@@ -452,7 +452,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31044,
+		"ips": 31345,
 		"common": 35
 	},
 	{
@@ -832,6 +832,18 @@
 		"category": "attacks",
 		"ips": 25324,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 364,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "xroxy",

@@ -86,7 +86,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 119,
+		"ips": 120,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46286,
+		"ips": 46267,
 		"common": 68
 	},
 	{
@@ -716,7 +716,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55983,
+		"ips": 55965,
 		"common": 91
 	},
 	{
@@ -1142,8 +1142,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31044,
-		"common": 37
+		"ips": 31345,
+		"common": 36
 	},
 	{
 		"name": "nullsecure",
@@ -1634,14 +1634,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 380,
+		"ips": 374,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 381,
-		"common": 24
+		"ips": 364,
+		"common": 26
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 2
 	},
 	{
 		"name": "urlvir",
