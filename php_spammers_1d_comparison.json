@@ -14,7 +14,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10685,
+		"ips": 10678,
 		"common": 2
 	},
 	{
@@ -182,13 +182,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588867,
+		"ips": 9588859,
 		"common": 4
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28900,
+		"ips": 28894,
 		"common": 2
 	},
 	{
@@ -262,6 +262,12 @@
 		"category": "spam",
 		"ips": 1289428,
 		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 29199,
+		"common": 1
 	},
 	{
 		"name": "php_commenters_30d",
