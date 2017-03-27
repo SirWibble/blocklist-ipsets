@@ -116,38 +116,38 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 7033,
-		"common": 48
+		"ips": 7038,
+		"common": 47
 	},
 	{
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 62,
-		"common": 8
+		"ips": 47,
+		"common": 6
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1032,
-		"common": 131
+		"ips": 1051,
+		"common": 132
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15152,
+		"ips": 15150,
 		"common": 494
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4603,
-		"common": 471
+		"ips": 4598,
+		"common": 469
 	},
 	{
 		"name": "ciarmy",
@@ -159,7 +159,7 @@
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 602338184,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -182,20 +182,20 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6159,
-		"common": 972
+		"ips": 6169,
+		"common": 965
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45617,
-		"common": 4419
+		"ips": 45602,
+		"common": 4421
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20161,
-		"common": 4512
+		"ips": 20173,
+		"common": 4514
 	},
 	{
 		"name": "cleantalk_new",
@@ -206,31 +206,31 @@
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 977,
-		"common": 977
+		"ips": 972,
+		"common": 972
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21732,
-		"common": 4773
+		"ips": 21727,
+		"common": 4777
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 5996,
+		"ips": 6013,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33508,
+		"ips": 33496,
 		"common": 240
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 18902,
+		"ips": 18914,
 		"common": 204
 	},
 	{
@@ -314,31 +314,31 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 10668,
-		"common": 1239
+		"ips": 10691,
+		"common": 1234
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205570,
-		"common": 4747
+		"ips": 205565,
+		"common": 4751
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42009,
+		"ips": 41921,
 		"common": 419
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655484192,
-		"common": 57
+		"common": 56
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 58823,
+		"ips": 58815,
 		"common": 127
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588869,
+		"ips": 9588867,
 		"common": 523
 	},
 	{
@@ -362,7 +362,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 24020,
+		"ips": 24019,
 		"common": 2
 	},
 	{
@@ -375,13 +375,13 @@
 		"name": "fullbogons",
 		"category": "unrouteable",
 		"ips": 629546568,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095637,
-		"common": 69
+		"common": 68
 	},
 	{
 		"name": "gpf_comics",
@@ -398,7 +398,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2061,
+		"ips": 2052,
 		"common": 43
 	},
 	{
@@ -447,7 +447,7 @@
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 602338184,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -468,22 +468,10 @@
 		"common": 3
 	},
 	{
-		"name": "iblocklist_iana_multicast",
-		"category": "unroutable",
-		"ips": 268435456,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_iana_private",
 		"category": "unroutable",
 		"ips": 51643638,
 		"common": 4
-	},
-	{
-		"name": "iblocklist_iana_reserved",
-		"category": "unroutable",
-		"ips": 536870912,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_att",
@@ -549,7 +537,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 230
+		"common": 231
 	},
 	{
 		"name": "iblocklist_onion_router",
