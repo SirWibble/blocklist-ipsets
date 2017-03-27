@@ -68,13 +68,19 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205877,
+		"ips": 205875,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655474944,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 56292,
 		"common": 1
 	},
 	{
@@ -86,7 +92,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589517,
+		"ips": 9589467,
 		"common": 9
 	},
 	{
@@ -234,6 +240,12 @@
 		"common": 1
 	},
 	{
+		"name": "openbl_1d",
+		"category": "attacks",
+		"ips": 292,
+		"common": 1
+	},
+	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 5836,
@@ -266,7 +278,7 @@
 	{
 		"name": "openbl_all",
 		"category": "attacks",
-		"ips": 149661,
+		"ips": 149690,
 		"common": 6
 	},
 	{
