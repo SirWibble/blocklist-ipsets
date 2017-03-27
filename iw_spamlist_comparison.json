@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11190,
+		"ips": 11247,
 		"common": 17
 	},
 	{
@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589413,
+		"ips": 9589462,
 		"common": 23
 	},
 	{
@@ -298,6 +298,12 @@
 		"category": "unrouteable",
 		"ips": 656175779,
 		"common": 64
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15588,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
@@ -404,8 +410,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35089,
-		"common": 27
+		"ips": 35190,
+		"common": 28
 	},
 	{
 		"name": "nullsecure",
