@@ -45,7 +45,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 46209,
-		"common": 771
+		"common": 772
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -57,7 +57,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 26128,
-		"common": 769
+		"common": 770
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -242,14 +242,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41769,
-		"common": 5436
+		"ips": 41771,
+		"common": 5439
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 55920,
-		"common": 773
+		"common": 774
 	},
 	{
 		"name": "firehol_level3",
@@ -266,8 +266,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28713,
-		"common": 5436
+		"ips": 28715,
+		"common": 5439
 	},
 	{
 		"name": "firehol_webclient",
@@ -393,7 +393,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 239
+		"common": 240
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -471,7 +471,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 30860,
-		"common": 216
+		"common": 217
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -711,7 +711,7 @@
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
 		"ips": 4050,
-		"common": 319
+		"common": 320
 	},
 	{
 		"name": "ri_web_proxies_7d",
@@ -740,14 +740,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 2058,
-		"common": 2058
+		"ips": 2063,
+		"common": 2063
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13147,
-		"common": 5437
+		"ips": 13149,
+		"common": 5440
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -795,12 +795,12 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 263,
+		"ips": 264,
 		"common": 4
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 766,
+		"ips": 767,
 		"common": 8
 	},
 	{
@@ -891,6 +891,6 @@
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 3
+		"common": 4
 	}
 ]
