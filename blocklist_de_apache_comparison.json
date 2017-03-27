@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10919,
+		"ips": 10879,
 		"common": 242
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20302,
+		"ips": 20289,
 		"common": 9
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589165,
+		"ips": 9589127,
 		"common": 294
 	},
 	{
@@ -894,16 +894,28 @@
 		"common": 4209
 	},
 	{
+		"name": "ri_connect_proxies",
+		"category": "anonymizers",
+		"ips": 141,
+		"common": 1
+	},
+	{
+		"name": "ri_connect_proxies_1d",
+		"category": "anonymizers",
+		"ips": 296,
+		"common": 1
+	},
+	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2614,
-		"common": 2
+		"ips": 2599,
+		"common": 3
 	},
 	{
 		"name": "ri_connect_proxies_7d",
 		"category": "anonymizers",
-		"ips": 868,
-		"common": 2
+		"ips": 908,
+		"common": 3
 	},
 	{
 		"name": "sblam",
