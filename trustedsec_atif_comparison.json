@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46209,
+		"ips": 46286,
 		"common": 23
 	},
 	{
@@ -104,26 +104,32 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 349,
+		"ips": 353,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2374,
+		"ips": 2378,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26128,
+		"ips": 26168,
 		"common": 3
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 147,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18607,
-		"common": 14
+		"ips": 18641,
+		"common": 13
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -368,7 +374,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11210,
+		"ips": 11310,
 		"common": 3
 	},
 	{
@@ -392,7 +398,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55920,
+		"ips": 55983,
 		"common": 53
 	},
 	{
@@ -404,7 +410,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589243,
+		"ips": 9589258,
 		"common": 113
 	},
 	{
@@ -422,7 +428,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1919,
+		"ips": 1897,
 		"common": 7
 	},
 	{
@@ -604,12 +610,6 @@
 		"category": "spam",
 		"ips": 1289428,
 		"common": 19
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 30860,
-		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
