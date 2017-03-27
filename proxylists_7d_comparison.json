@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10965,
+		"ips": 10953,
 		"common": 11
 	},
 	{
@@ -134,13 +134,13 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2419,
-		"common": 39
+		"ips": 2425,
+		"common": 35
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6255,
+		"ips": 6290,
 		"common": 106
 	},
 	{
@@ -152,43 +152,43 @@
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20209,
+		"ips": 20226,
 		"common": 263
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21691,
+		"ips": 21694,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4802,
+		"ips": 4809,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 39
+		"common": 35
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 6078,
+		"ips": 6109,
 		"common": 106
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 33466,
+		"ips": 33467,
 		"common": 315
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 18931,
+		"ips": 18939,
 		"common": 264
 	},
 	{
@@ -254,8 +254,8 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 248565,
-		"common": 345
+		"ips": 248604,
+		"common": 346
 	},
 	{
 		"name": "esentire_crazyerror_su",
@@ -296,13 +296,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11393,
+		"ips": 11435,
 		"common": 224
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205865,
+		"ips": 205872,
 		"common": 1424
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589174,
+		"ips": 9589162,
 		"common": 281
 	},
 	{
@@ -944,7 +944,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 364,
+		"ips": 359,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
 		"common": 1
 	},
 	{

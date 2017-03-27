@@ -170,13 +170,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205865,
+		"ips": 205872,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484158,
+		"ips": 655484164,
 		"common": 2
 	},
 	{
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589174,
+		"ips": 9589162,
 		"common": 4
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 374,
+		"ips": 370,
 		"common": 1
 	},
 	{
@@ -438,9 +438,15 @@
 		"common": 2
 	},
 	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 343,
+		"ips": 342,
 		"common": 1
 	},
 	{
