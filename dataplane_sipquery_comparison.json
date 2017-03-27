@@ -218,7 +218,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205974,
+		"ips": 205979,
 		"common": 1
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655474947,
+		"ips": 655474943,
 		"common": 20
 	},
 	{
@@ -572,25 +572,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 353,
+		"ips": 348,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 318,
+		"ips": 312,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 449,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 112,
+		"ips": 111,
 		"common": 7
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 162,
 		"common": 2
 	},
 	{
@@ -602,8 +608,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 329,
-		"common": 54
+		"ips": 325,
+		"common": 55
 	},
 	{
 		"name": "voipbl",
