@@ -128,8 +128,8 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 386,
-		"common": 44
+		"ips": 330,
+		"common": 41
 	},
 	{
 		"name": "bambenek_pykspa",
@@ -273,13 +273,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 48340,
-		"common": 2022
+		"common": 2023
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9266,
-		"common": 360
+		"ips": 9273,
+		"common": 362
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -290,38 +290,38 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 664,
-		"common": 333
+		"ips": 666,
+		"common": 334
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 346,
-		"common": 26
+		"ips": 347,
+		"common": 27
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2401,
+		"ips": 2424,
 		"common": 34
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28019,
-		"common": 752
+		"ips": 28090,
+		"common": 751
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 148,
+		"ips": 147,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18697,
-		"common": 886
+		"ips": 18744,
+		"common": 888
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -585,13 +585,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 22860,
-		"common": 1057
+		"common": 1056
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20352,
-		"common": 897
+		"ips": 20336,
+		"common": 891
 	},
 	{
 		"name": "dm_tor",
@@ -626,7 +626,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 309928,
+		"ips": 309927,
 		"common": 997
 	},
 	{
@@ -903,7 +903,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 205851,
-		"common": 14043
+		"common": 14042
 	},
 	{
 		"name": "firehol_anonymous",
@@ -914,14 +914,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484186,
-		"common": 6032759
+		"ips": 655484130,
+		"common": 6032756
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 58347,
-		"common": 2333
+		"common": 2334
 	},
 	{
 		"name": "firehol_level3",
@@ -1233,13 +1233,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 2537984
+		"common": 2537985
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 162030
+		"common": 162028
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -1389,7 +1389,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1289428,
-		"common": 4944
+		"common": 4942
 	},
 	{
 		"name": "malwaredomainlist",
@@ -1724,7 +1724,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5218,
+		"ips": 5220,
 		"common": 362
 	},
 	{
@@ -1881,7 +1881,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 3853
+		"common": 3852
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1893,7 +1893,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 4968
+		"common": 4967
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1965,13 +1965,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 162283,
-		"common": 10802
+		"common": 10801
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 286979,
-		"common": 12855
+		"common": 12854
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1983,13 +1983,13 @@
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 66967,
-		"common": 9085
+		"common": 9084
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 551072,
-		"common": 15363
+		"common": 15362
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -2001,7 +2001,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 163310,
-		"common": 10853
+		"common": 10852
 	},
 	{
 		"name": "stopforumspam_toxic",
@@ -2079,7 +2079,7 @@
 		"name": "urandomusto_http",
 		"category": "attacks",
 		"ips": 420,
-		"common": 61
+		"common": 62
 	},
 	{
 		"name": "urandomusto_mailer",
