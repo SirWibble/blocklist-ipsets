@@ -110,8 +110,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10680,
-		"common": 325
+		"ips": 10750,
+		"common": 322
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -290,7 +290,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 20338,
+		"ips": 20329,
 		"common": 11
 	},
 	{
@@ -452,7 +452,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484192,
+		"ips": 655484190,
 		"common": 538
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588860,
-		"common": 382
+		"ips": 9588924,
+		"common": 379
 	},
 	{
 		"name": "firehol_proxies",
@@ -482,8 +482,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 24017,
-		"common": 50
+		"ips": 24020,
+		"common": 51
 	},
 	{
 		"name": "firehol_webserver",
@@ -950,8 +950,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5217,
+		"ips": 5224,
 		"common": 3
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 422,
+		"common": 1
 	},
 	{
 		"name": "ri_connect_proxies_30d",
