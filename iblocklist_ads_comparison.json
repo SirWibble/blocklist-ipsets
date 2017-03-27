@@ -38,14 +38,14 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 113,
-		"common": 2
+		"ips": 119,
+		"common": 1
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 67,
-		"common": 15
+		"ips": 94,
+		"common": 18
 	},
 	{
 		"name": "bambenek_tinba",
@@ -98,25 +98,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5463,
+		"ips": 5462,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6710,
+		"ips": 6706,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23281,
+		"ips": 23285,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10898,
+		"ips": 10903,
 		"common": 1
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 7059,
+		"ips": 7030,
 		"common": 1
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 42008,
+		"ips": 41916,
 		"common": 262
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28918,
+		"ips": 28901,
 		"common": 5
 	},
 	{
@@ -1116,6 +1116,12 @@
 		"common": 3
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 248,
@@ -1124,7 +1130,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5332,
+		"ips": 5324,
 		"common": 3
 	},
 	{
