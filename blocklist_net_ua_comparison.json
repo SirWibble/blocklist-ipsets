@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 51145,
-		"common": 182
+		"common": 183
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -69,7 +69,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 46352,
-		"common": 1260
+		"common": 1258
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -93,7 +93,7 @@
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
 		"ips": 367,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -117,7 +117,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 18665,
-		"common": 447
+		"common": 446
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -398,7 +398,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 9984,
+		"ips": 8704,
 		"common": 23
 	},
 	{
@@ -495,25 +495,25 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655484156,
-		"common": 153
+		"common": 154
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 57324,
-		"common": 1343
+		"common": 1341
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 164527,
-		"common": 321
+		"common": 322
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589319,
-		"common": 11087
+		"ips": 9589321,
+		"common": 11089
 	},
 	{
 		"name": "firehol_proxies",
@@ -873,49 +873,49 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 26723,
-		"common": 185
+		"common": 186
 	},
 	{
 		"name": "openbl_1d",
 		"category": "attacks",
 		"ips": 283,
-		"common": 43
+		"common": 44
 	},
 	{
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 5836,
-		"common": 155
+		"common": 156
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 35651,
-		"common": 195
+		"common": 196
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 9728,
-		"common": 172
+		"common": 173
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 1654,
-		"common": 120
+		"common": 121
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 15334,
-		"common": 175
+		"ips": 15324,
+		"common": 178
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 149661,
-		"common": 224
+		"common": 225
 	},
 	{
 		"name": "packetmail",
@@ -1128,6 +1128,18 @@
 		"common": 10
 	},
 	{
+		"name": "ransomware_rw",
+		"category": "malware",
+		"ips": 11642,
+		"common": 1
+	},
+	{
+		"name": "ransomware_teslacrypt_ps",
+		"category": "malware",
+		"ips": 10998,
+		"common": 1
+	},
+	{
 		"name": "ri_connect_proxies",
 		"category": "anonymizers",
 		"ips": 141,
@@ -1227,7 +1239,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 355
+		"common": 354
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1257,7 +1269,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 372
+		"common": 371
 	},
 	{
 		"name": "sp_atma",
