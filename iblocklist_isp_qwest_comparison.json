@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41953,
+		"ips": 41945,
 		"common": 35
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28807,
+		"ips": 28800,
 		"common": 17
 	},
 	{
@@ -662,7 +662,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 271,
+		"ips": 314,
 		"common": 1
 	},
 	{
@@ -704,13 +704,13 @@
 	{
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
-		"ips": 3989,
+		"ips": 3984,
 		"common": 3
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
-		"ips": 2433,
+		"ips": 2450,
 		"common": 3
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 5462,
+		"ips": 5457,
 		"common": 1
 	},
 	{
@@ -866,7 +866,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5258,
+		"ips": 5253,
 		"common": 1
 	},
 	{
@@ -938,19 +938,19 @@
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 1070,
+		"ips": 1072,
 		"common": 4
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 2215,
+		"ips": 2216,
 		"common": 16
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1316,
+		"ips": 1318,
 		"common": 9
 	},
 	{
@@ -964,6 +964,12 @@
 		"category": "reputation",
 		"ips": 19938,
 		"common": 6
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 449,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
