@@ -3,13 +3,13 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 51044,
-		"common": 4
+		"common": 2
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 9543,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -39,19 +39,19 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 46286,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 9215,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 15732,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -62,7 +62,7 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 22800,
+		"ips": 22798,
 		"common": 1
 	},
 	{
@@ -105,13 +105,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 55688,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 163764,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "greensnow",
@@ -141,7 +141,7 @@
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
@@ -180,52 +180,16 @@
 		"common": 1
 	},
 	{
-		"name": "openbl_180d",
-		"category": "attacks",
-		"ips": 26688,
-		"common": 1
-	},
-	{
-		"name": "openbl_360d",
-		"category": "attacks",
-		"ips": 35621,
-		"common": 1
-	},
-	{
-		"name": "openbl_90d",
-		"category": "attacks",
-		"ips": 15341,
-		"common": 1
-	},
-	{
-		"name": "openbl_all",
-		"category": "attacks",
-		"ips": 149610,
-		"common": 1
-	},
-	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2513,
-		"common": 9
+		"common": 7
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2969,
-		"common": 6
-	},
-	{
-		"name": "sorbs_dul",
-		"category": "spam",
-		"ips": 375226662,
-		"common": 1
-	},
-	{
-		"name": "sorbs_noserver",
-		"category": "spam",
-		"ips": 22951270,
-		"common": 1
+		"common": 4
 	},
 	{
 		"name": "sp_atma",
@@ -237,7 +201,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11120,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "threatcrowd",
@@ -255,12 +219,12 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 19938,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 359,
+		"ips": 352,
 		"common": 2
 	},
 	{
