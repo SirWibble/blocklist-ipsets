@@ -68,8 +68,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11331,
-		"common": 27
+		"ips": 11460,
+		"common": 26
 	},
 	{
 		"name": "bm_tor",
@@ -198,6 +198,12 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 8704,
@@ -260,13 +266,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41255,
+		"ips": 41257,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 655474945,
 		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56401,
+		"ips": 56412,
 		"common": 284
 	},
 	{
@@ -278,13 +290,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589526,
+		"ips": 9589651,
 		"common": 63
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28165,
+		"ips": 28167,
 		"common": 1
 	},
 	{
@@ -308,7 +320,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1471,
+		"ips": 1490,
 		"common": 2
 	},
 	{
