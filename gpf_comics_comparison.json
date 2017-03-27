@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11048,
+		"ips": 11045,
 		"common": 71
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12606,
+		"ips": 12763,
 		"common": 109
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589294,
+		"ips": 9589288,
 		"common": 355
 	},
 	{
@@ -686,8 +686,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 34215,
-		"common": 88
+		"ips": 34330,
+		"common": 86
 	},
 	{
 		"name": "nullsecure",
@@ -998,8 +998,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5437,
-		"common": 64
+		"ips": 5622,
+		"common": 65
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1034,13 +1034,13 @@
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 11120,
+		"ips": 11179,
 		"common": 3
 	},
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 25327,
+		"ips": 24815,
 		"common": 24
 	},
 	{
@@ -1082,19 +1082,25 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 361,
+		"ips": 357,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 315,
-		"common": 9
+		"ips": 291,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 450,
 		"common": 1
 	},
 	{
