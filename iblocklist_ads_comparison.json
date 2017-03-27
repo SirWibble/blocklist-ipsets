@@ -116,13 +116,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46286,
+		"ips": 46485,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18597,
+		"ips": 18676,
 		"common": 6
 	},
 	{
@@ -174,22 +174,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 21,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1003,
-		"common": 2
+		"ips": 986,
+		"common": 3
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15161,
-		"common": 30
+		"ips": 15165,
+		"common": 31
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4553,
-		"common": 7
+		"ips": 4559,
+		"common": 8
 	},
 	{
 		"name": "chaosreigns_iprep0",
@@ -356,7 +362,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 319390,
+		"ips": 319474,
 		"common": 58
 	},
 	{
@@ -548,8 +554,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11575,
-		"common": 8
+		"ips": 11566,
+		"common": 9
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -566,13 +572,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484164,
+		"ips": 655484166,
 		"common": 19271
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55688,
+		"ips": 55884,
 		"common": 6
 	},
 	{
@@ -584,8 +590,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589325,
-		"common": 92503
+		"ips": 9589329,
+		"common": 92504
 	},
 	{
 		"name": "firehol_proxies",
