@@ -92,8 +92,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46642,
+		"ips": 46823,
 		"common": 14
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 9067,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_bruteforce",
+		"category": "attacks",
+		"ips": 480,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -104,14 +116,14 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2457,
-		"common": 2
+		"ips": 2448,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26809,
-		"common": 2
+		"ips": 26909,
+		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -380,20 +392,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655474929,
+		"ips": 655474945,
 		"common": 312
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56421,
+		"ips": 56598,
 		"common": 15
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 164996,
-		"common": 28
+		"ips": 164998,
+		"common": 27
 	},
 	{
 		"name": "firehol_level4",
@@ -411,7 +423,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753500,
-		"common": 4330
+		"common": 4329
 	},
 	{
 		"name": "fullbogons",
@@ -765,7 +777,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 766
+		"common": 765
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -944,7 +956,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 25402,
+		"ips": 25404,
 		"common": 1
 	},
 	{
@@ -969,7 +981,7 @@
 		"name": "urlvir",
 		"category": "malware",
 		"ips": 149,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "voipbl",
@@ -981,7 +993,7 @@
 		"name": "vxvault",
 		"category": "malware",
 		"ips": 71,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "yoyo_adservers",
