@@ -92,7 +92,7 @@
 	{
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
-		"ips": 200,
+		"ips": 201,
 		"common": 2
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 658,
+		"ips": 659,
 		"common": 3
 	},
 	{
@@ -122,26 +122,26 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6702,
+		"ips": 6705,
 		"common": 8
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 23284,
+		"ips": 23288,
 		"common": 11
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 10901,
+		"ips": 10900,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 48818,
-		"common": 196
+		"ips": 48815,
+		"common": 195
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -158,26 +158,26 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2362,
+		"ips": 2363,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28703,
+		"ips": 28679,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 140,
+		"ips": 139,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18611,
-		"common": 162
+		"ips": 18632,
+		"common": 161
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -392,7 +392,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 319257,
+		"ips": 319258,
 		"common": 31
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12847,
+		"ips": 10668,
 		"common": 11
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 58826,
-		"common": 8859
+		"ips": 58823,
+		"common": 8858
 	},
 	{
 		"name": "firehol_level3",
@@ -716,8 +716,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29487,
-		"common": 2
+		"ips": 29353,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -848,7 +848,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5220,
+		"ips": 5221,
 		"common": 1
 	},
 	{
@@ -980,7 +980,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6085,
+		"ips": 3619,
 		"common": 9
 	},
 	{
@@ -1076,25 +1076,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 382,
+		"ips": 386,
 		"common": 19
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 435,
-		"common": 16
+		"ips": 433,
+		"common": 17
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 115,
-		"common": 42
+		"ips": 113,
+		"common": 41
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 178,
 		"common": 15
 	},
 	{
@@ -1106,20 +1112,20 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 449,
-		"common": 10
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 433,
+		"ips": 431,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 334,
-		"common": 22
+		"ips": 338,
+		"common": 23
 	},
 	{
 		"name": "urandomusto_vnc",

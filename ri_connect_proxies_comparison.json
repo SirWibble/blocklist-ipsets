@@ -26,13 +26,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 48818,
+		"ips": 48815,
 		"common": 26
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28703,
+		"ips": 28679,
 		"common": 26
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 319257,
+		"ips": 319258,
 		"common": 93
 	},
 	{
@@ -170,8 +170,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12847,
-		"common": 58
+		"ips": 10668,
+		"common": 46
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 58826,
+		"ips": 58823,
 		"common": 26
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29487,
+		"ips": 29353,
 		"common": 20
 	},
 	{
@@ -578,8 +578,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6085,
-		"common": 48
+		"ips": 3619,
+		"common": 33
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -610,6 +610,12 @@
 		"category": "attacks",
 		"ips": 25326,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "xroxy_1d",
