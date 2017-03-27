@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46277,
+		"ips": 46158,
 		"common": 10
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 18603,
+		"ips": 18556,
 		"common": 1
 	},
 	{
@@ -81,19 +81,19 @@
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1002,
-		"common": 48
+		"common": 46
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 15185,
-		"common": 49
+		"common": 47
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
 		"ips": 4575,
-		"common": 49
+		"common": 47
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -104,44 +104,44 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2441,
-		"common": 441
+		"ips": 2440,
+		"common": 440
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6322,
-		"common": 429
+		"ips": 6326,
+		"common": 428
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45529,
-		"common": 425
+		"ips": 45535,
+		"common": 424
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20268,
-		"common": 428
+		"ips": 20264,
+		"common": 427
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 1053,
-		"common": 441
+		"ips": 1050,
+		"common": 440
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21654,
-		"common": 441
+		"ips": 21658,
+		"common": 440
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4816,
-		"common": 441
+		"ips": 4814,
+		"common": 440
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -206,14 +206,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12189,
-		"common": 441
+		"ips": 12206,
+		"common": 440
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205924,
-		"common": 441
+		"ips": 205933,
+		"common": 440
 	},
 	{
 		"name": "firehol_anonymous",
@@ -230,7 +230,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55408,
+		"ips": 55294,
 		"common": 10
 	},
 	{
@@ -243,7 +243,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9589127,
-		"common": 50
+		"common": 48
 	},
 	{
 		"name": "firehol_proxies",
@@ -255,7 +255,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753617,
-		"common": 58
+		"common": 59
 	},
 	{
 		"name": "fullbogons",
@@ -279,7 +279,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 23
+		"common": 24
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -339,7 +339,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 25
+		"common": 23
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -417,7 +417,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 53
+		"common": 54
 	},
 	{
 		"name": "ri_connect_proxies_30d",
@@ -435,7 +435,7 @@
 		"name": "sblam",
 		"category": "abuse",
 		"ips": 12280,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "snort_ipfilter",
@@ -465,7 +465,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 41
+		"common": 40
 	},
 	{
 		"name": "sorbs_noserver",
@@ -519,43 +519,43 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 162283,
-		"common": 19
+		"common": 17
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 286754,
-		"common": 120
+		"common": 117
 	},
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
 		"ips": 5107,
-		"common": 124
+		"common": 121
 	},
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
 		"ips": 66967,
-		"common": 52
+		"common": 49
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 551001,
-		"common": 123
+		"common": 120
 	},
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
 		"ips": 17355,
-		"common": 78
+		"common": 75
 	},
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 163310,
-		"common": 52
+		"common": 49
 	},
 	{
 		"name": "taichung",
