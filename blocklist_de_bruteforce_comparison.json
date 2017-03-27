@@ -80,8 +80,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11324,
-		"common": 197
+		"ips": 11339,
+		"common": 198
 	},
 	{
 		"name": "botscout_1d",
@@ -236,7 +236,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 39252,
+		"ips": 39253,
 		"common": 6
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589525,
-		"common": 223
+		"ips": 9589543,
+		"common": 224
 	},
 	{
 		"name": "firehol_proxies",
@@ -854,14 +854,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 355,
-		"common": 3
+		"ips": 354,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 288,
-		"common": 50
+		"ips": 309,
+		"common": 52
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
