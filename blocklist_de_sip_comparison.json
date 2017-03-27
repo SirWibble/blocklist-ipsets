@@ -51,7 +51,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 46572,
-		"common": 93
+		"common": 94
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11527,
+		"ips": 11483,
 		"common": 4
 	},
 	{
@@ -90,16 +90,10 @@
 		"common": 1
 	},
 	{
-		"name": "dataplane_sipinvitation",
-		"category": "attacks",
-		"ips": 12,
-		"common": 1
-	},
-	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 438,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -183,18 +177,18 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 56335,
-		"common": 93
+		"common": 94
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 165004,
+		"ips": 164503,
 		"common": 30
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589749,
+		"ips": 9589708,
 		"common": 15
 	},
 	{
@@ -207,7 +201,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095641,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "greensnow",
@@ -225,13 +219,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 15588,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -261,7 +255,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691263,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "iblocklist_level2",
@@ -417,7 +411,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 19938,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "urandomusto_http",
@@ -435,6 +429,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 25515,
-		"common": 71
+		"common": 69
 	}
 ]
