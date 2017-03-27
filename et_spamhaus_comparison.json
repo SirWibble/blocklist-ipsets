@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46544,
+		"ips": 46670,
 		"common": 564
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11396,
+		"ips": 11403,
 		"common": 136
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56292,
+		"ips": 56418,
 		"common": 567
 	},
 	{
@@ -560,13 +560,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589585,
+		"ips": 9589591,
 		"common": 5430566
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28155,
+		"ips": 28154,
 		"common": 11
 	},
 	{
@@ -842,8 +842,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35636,
-		"common": 138
+		"ips": 35726,
+		"common": 131
 	},
 	{
 		"name": "nt_malware_http",
@@ -920,7 +920,7 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 134,
+		"ips": 143,
 		"common": 1
 	},
 	{
@@ -1004,7 +1004,7 @@
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6565,
+		"ips": 6561,
 		"common": 2
 	},
 	{
@@ -1268,31 +1268,43 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 354,
+		"ips": 356,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 309,
+		"ips": 310,
 		"common": 12
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
 		"ips": 451,
-		"common": 20
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 110,
+		"ips": 111,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 162,
+		"ips": 163,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 450,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 445,
 		"common": 1
 	},
 	{

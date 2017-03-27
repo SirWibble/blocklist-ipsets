@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46544,
+		"ips": 46670,
 		"common": 4
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11396,
+		"ips": 11403,
 		"common": 1
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 442,
 		"common": 23
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56292,
+		"ips": 56418,
 		"common": 3843
 	},
 	{
@@ -362,13 +362,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589585,
+		"ips": 9589591,
 		"common": 12
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28155,
+		"ips": 28154,
 		"common": 1
 	},
 	{
@@ -554,8 +554,8 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 134,
-		"common": 2
+		"ips": 143,
+		"common": 3
 	},
 	{
 		"name": "packetmail_mail",
@@ -572,7 +572,7 @@
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6565,
+		"ips": 6561,
 		"common": 1
 	},
 	{
@@ -680,25 +680,31 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 354,
-		"common": 12
+		"ips": 356,
+		"common": 14
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 309,
+		"ips": 310,
 		"common": 12
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 110,
-		"common": 33
+		"ips": 111,
+		"common": 34
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 162,
+		"ips": 163,
 		"common": 4
 	},
 	{
@@ -708,16 +714,22 @@
 		"common": 10
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 450,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 445,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 343,
-		"common": 22
+		"ips": 336,
+		"common": 19
 	},
 	{
 		"name": "urandomusto_vnc",

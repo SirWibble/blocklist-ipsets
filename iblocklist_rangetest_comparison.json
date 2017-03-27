@@ -224,7 +224,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46544,
+		"ips": 46670,
 		"common": 57
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11396,
+		"ips": 11403,
 		"common": 441
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 442,
 		"common": 2
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56292,
+		"ips": 56418,
 		"common": 64
 	},
 	{
@@ -722,13 +722,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589585,
+		"ips": 9589591,
 		"common": 3797
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28155,
+		"ips": 28154,
 		"common": 55
 	},
 	{
@@ -1076,8 +1076,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 35636,
-		"common": 36
+		"ips": 35726,
+		"common": 37
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1166,7 +1166,7 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 134,
+		"ips": 143,
 		"common": 2
 	},
 	{
@@ -1268,25 +1268,25 @@
 	{
 		"name": "proxyspy",
 		"category": "anonymizers",
-		"ips": 298,
-		"common": 3
+		"ips": 297,
+		"common": 2
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 974,
+		"ips": 942,
 		"common": 7
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6565,
+		"ips": 6561,
 		"common": 22
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2431,
+		"ips": 2422,
 		"common": 12
 	},
 	{
@@ -1610,26 +1610,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 354,
+		"ips": 356,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 309,
-		"common": 1
+		"ips": 310,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 366,
 		"common": 1
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 449,
-		"common": 3
 	},
 	{
 		"name": "urandomusto_vnc",
