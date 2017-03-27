@@ -62,14 +62,20 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2359,
-		"common": 23
+		"ips": 2355,
+		"common": 22
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 28849,
-		"common": 29
+		"ips": 28753,
+		"common": 28
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 139,
+		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -86,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10734,
+		"ips": 10724,
 		"common": 47
 	},
 	{
@@ -188,7 +194,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484161,
+		"ips": 655484163,
 		"common": 5
 	},
 	{
@@ -206,7 +212,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588923,
+		"ips": 9588913,
 		"common": 72
 	},
 	{
@@ -362,7 +368,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2542,
+		"ips": 2552,
 		"common": 11
 	},
 	{
@@ -446,8 +452,8 @@
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
-		"ips": 18978,
-		"common": 36
+		"ips": 19938,
+		"common": 87
 	},
 	{
 		"name": "urandomusto_ssh",

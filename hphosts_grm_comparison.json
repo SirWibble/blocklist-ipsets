@@ -50,19 +50,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9289,
+		"ips": 9285,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 667,
+		"ips": 666,
 		"common": 1
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 10734,
+		"ips": 10724,
 		"common": 2
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205549,
+		"ips": 205551,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655484161,
+		"ips": 655484163,
 		"common": 16
 	},
 	{
@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9588923,
+		"ips": 9588913,
 		"common": 27
 	},
 	{
@@ -436,6 +436,12 @@
 		"category": "malware",
 		"ips": 6383,
 		"common": 11
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 19938,
+		"common": 1
 	},
 	{
 		"name": "yoyo_adservers",
