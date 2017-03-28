@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11363,
+		"ips": 11384,
 		"common": 4
 	},
 	{
@@ -128,44 +128,44 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2506,
-		"common": 506
+		"ips": 2509,
+		"common": 509
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6367,
-		"common": 1055
+		"ips": 6363,
+		"common": 1051
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45515,
-		"common": 1025
+		"ips": 45512,
+		"common": 1021
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20316,
-		"common": 1043
+		"ips": 20317,
+		"common": 1039
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 506,
-		"common": 506
+		"ips": 509,
+		"common": 509
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21605,
-		"common": 1079
+		"ips": 21602,
+		"common": 1075
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4825,
-		"common": 1079
+		"ips": 4826,
+		"common": 1075
 	},
 	{
 		"name": "cleantalk_updated_30d",
@@ -212,7 +212,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 319557,
+		"ips": 319556,
 		"common": 29
 	},
 	{
@@ -225,7 +225,7 @@
 		"name": "dronebl_worms_bots",
 		"category": "malware",
 		"ips": 248880,
-		"common": 18
+		"common": 13
 	},
 	{
 		"name": "dshield_30d",
@@ -254,20 +254,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11683,
-		"common": 1079
+		"ips": 11679,
+		"common": 1075
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 205991,
-		"common": 1078
+		"ips": 205990,
+		"common": 1074
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
 		"ips": 41026,
-		"common": 60
+		"common": 55
 	},
 	{
 		"name": "firehol_level1",
@@ -290,14 +290,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589544,
+		"ips": 9589564,
 		"common": 117
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27945,
-		"common": 49
+		"ips": 27939,
+		"common": 44
 	},
 	{
 		"name": "firehol_webclient",
@@ -309,7 +309,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753500,
-		"common": 155
+		"common": 154
 	},
 	{
 		"name": "fullbogons",
@@ -321,7 +321,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095641,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "greensnow",
@@ -393,7 +393,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691263,
-		"common": 23
+		"common": 22
 	},
 	{
 		"name": "iblocklist_level2",
@@ -405,7 +405,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 45
+		"common": 44
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -452,7 +452,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31604,
+		"ips": 31585,
 		"common": 7
 	},
 	{
@@ -519,31 +519,31 @@
 		"name": "proxyspy",
 		"category": "anonymizers",
 		"ips": 297,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 948,
+		"ips": 967,
 		"common": 10
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6521,
+		"ips": 6525,
 		"common": 12
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 2424,
+		"ips": 2432,
 		"common": 12
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 148
+		"common": 147
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -603,25 +603,25 @@
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 1732,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
 		"ips": 13100,
-		"common": 19
+		"common": 14
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
 		"ips": 5433,
-		"common": 19
+		"common": 14
 	},
 	{
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 111
+		"common": 114
 	},
 	{
 		"name": "sorbs_noserver",
