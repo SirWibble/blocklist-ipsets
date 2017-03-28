@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45862,
+		"ips": 45759,
 		"common": 287
 	},
 	{
@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 17334,
+		"ips": 17251,
 		"common": 217
 	},
 	{
@@ -578,13 +578,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655474944,
+		"ips": 655474945,
 		"common": 5377
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55802,
+		"ips": 55699,
 		"common": 8943
 	},
 	{
@@ -710,7 +710,7 @@
 	{
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 6695,
+		"ips": 6697,
 		"common": 72
 	},
 	{
@@ -830,7 +830,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32013,
+		"ips": 31918,
 		"common": 1
 	},
 	{
@@ -954,6 +954,30 @@
 		"common": 1
 	},
 	{
+		"name": "proxylists",
+		"category": "anonymizers",
+		"ips": 793,
+		"common": 1
+	},
+	{
+		"name": "proxylists_1d",
+		"category": "anonymizers",
+		"ips": 1758,
+		"common": 1
+	},
+	{
+		"name": "proxylists_30d",
+		"category": "anonymizers",
+		"ips": 4632,
+		"common": 1
+	},
+	{
+		"name": "proxylists_7d",
+		"category": "anonymizers",
+		"ips": 3094,
+		"common": 1
+	},
+	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 6464,
@@ -974,7 +998,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5217,
+		"ips": 5218,
 		"common": 3
 	},
 	{
@@ -1088,7 +1112,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 121,
+		"ips": 122,
 		"common": 1
 	},
 	{

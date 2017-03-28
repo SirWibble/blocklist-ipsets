@@ -62,8 +62,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45862,
-		"common": 26682
+		"ips": 45759,
+		"common": 26812
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -476,14 +476,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 655474944,
+		"ips": 655474945,
 		"common": 553
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55802,
-		"common": 26682
+		"ips": 55699,
+		"common": 26812
 	},
 	{
 		"name": "firehol_level3",
@@ -578,7 +578,7 @@
 	{
 		"name": "iblocklist_cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 6695,
+		"ips": 6697,
 		"common": 7
 	},
 	{
@@ -800,8 +800,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32013,
-		"common": 3839
+		"ips": 31918,
+		"common": 3750
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -986,26 +986,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 885,
-		"common": 37
+		"ips": 793,
+		"common": 28
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 1728,
-		"common": 63
+		"ips": 1758,
+		"common": 65
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 4600,
-		"common": 102
+		"ips": 4632,
+		"common": 103
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 3059,
-		"common": 92
+		"ips": 3094,
+		"common": 94
 	},
 	{
 		"name": "proxyrss",
@@ -1056,22 +1056,28 @@
 		"common": 84
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 23,
+		"common": 3
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 268,
-		"common": 13
+		"ips": 273,
+		"common": 15
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 1892,
-		"common": 51
+		"ips": 1901,
+		"common": 53
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 899,
-		"common": 36
+		"ips": 905,
+		"common": 38
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -1082,7 +1088,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5217,
+		"ips": 5218,
 		"common": 1
 	},
 	{
