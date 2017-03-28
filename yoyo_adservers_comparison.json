@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11344,
+		"ips": 11359,
 		"common": 10
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 248881,
+		"ips": 248880,
 		"common": 1
 	},
 	{
@@ -216,6 +216,12 @@
 		"common": 27
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 56686,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 163619,
@@ -224,7 +230,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589531,
+		"ips": 9589541,
 		"common": 274
 	},
 	{
@@ -256,6 +262,12 @@
 		"category": "abuse",
 		"ips": 330527,
 		"common": 45
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1830,
+		"common": 1
 	},
 	{
 		"name": "hphosts_ats",
@@ -560,7 +572,7 @@
 	{
 		"name": "openbl_180d",
 		"category": "attacks",
-		"ips": 26751,
+		"ips": 26777,
 		"common": 1
 	},
 	{
@@ -584,7 +596,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5216,
+		"ips": 5217,
 		"common": 23
 	},
 	{
