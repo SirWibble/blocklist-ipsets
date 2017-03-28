@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 46284,
-		"common": 105
+		"ips": 46010,
+		"common": 103
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -146,8 +146,8 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2532,
-		"common": 24
+		"ips": 2524,
+		"common": 23
 	},
 	{
 		"name": "cleantalk_1d",
@@ -158,20 +158,20 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45503,
+		"ips": 45498,
 		"common": 1456
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20336,
+		"ips": 20334,
 		"common": 380
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 532,
-		"common": 5
+		"ips": 524,
+		"common": 4
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -182,13 +182,13 @@
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 21592,
+		"ips": 21587,
 		"common": 1137
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4841,
+		"ips": 4839,
 		"common": 101
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11706,
+		"ips": 11705,
 		"common": 377
 	},
 	{
@@ -398,8 +398,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56474,
-		"common": 110
+		"ips": 56202,
+		"common": 108
 	},
 	{
 		"name": "firehol_level3",
@@ -686,7 +686,7 @@
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
-		"ips": 15321,
+		"ips": 15322,
 		"common": 5
 	},
 	{
@@ -1082,7 +1082,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 322,
+		"ips": 338,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 451,
 		"common": 1
 	},
 	{
