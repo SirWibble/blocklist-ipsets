@@ -128,8 +128,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 99,
-		"common": 50
+		"ips": 100,
+		"common": 49
 	},
 	{
 		"name": "bambenek_bebloh",
@@ -146,7 +146,7 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 7,
+		"ips": 6,
 		"common": 5
 	},
 	{
@@ -164,14 +164,14 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 110,
-		"common": 64
+		"ips": 118,
+		"common": 69
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 72,
-		"common": 53
+		"ips": 71,
+		"common": 52
 	},
 	{
 		"name": "bambenek_tinba",
@@ -200,7 +200,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 798,
+		"ips": 802,
 		"common": 79
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12192,
-		"common": 2003
+		"ips": 12196,
+		"common": 2006
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -656,8 +656,8 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 319643,
-		"common": 8495
+		"ips": 319644,
+		"common": 8496
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -950,8 +950,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590466,
-		"common": 55998
+		"ips": 9590469,
+		"common": 56001
 	},
 	{
 		"name": "firehol_proxies",
@@ -2120,20 +2120,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 327,
+		"ips": 326,
 		"common": 54
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 307,
-		"common": 43
+		"ips": 321,
+		"common": 46
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 449,
-		"common": 19
+		"ips": 451,
+		"common": 23
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -2144,7 +2144,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 151,
+		"ips": 150,
 		"common": 12
 	},
 	{
@@ -2162,20 +2162,26 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 445,
-		"common": 7
+		"ips": 449,
+		"common": 11
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 445,
-		"common": 2
+		"ips": 446,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
 		"ips": 303,
-		"common": 47
+		"common": 51
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 33,
+		"common": 1
 	},
 	{
 		"name": "urlvir",
