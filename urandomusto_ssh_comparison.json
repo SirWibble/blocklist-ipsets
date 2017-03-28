@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11632,
+		"ips": 11717,
 		"common": 16
 	},
 	{
@@ -104,8 +104,8 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 19910,
-		"common": 206
+		"ips": 19891,
+		"common": 207
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -128,7 +128,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 248901,
+		"ips": 248907,
 		"common": 2
 	},
 	{
@@ -188,7 +188,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 206025,
+		"ips": 206029,
 		"common": 1
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589865,
+		"ips": 9589949,
 		"common": 40
 	},
 	{
@@ -538,6 +538,12 @@
 		"category": "attacks",
 		"ips": 146,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 358,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
