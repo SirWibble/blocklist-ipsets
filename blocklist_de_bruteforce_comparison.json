@@ -50,14 +50,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45479,
+		"ips": 45616,
 		"common": 803
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9390,
-		"common": 803
+		"ips": 9389,
+		"common": 800
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 26986,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -68,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11967,
+		"ips": 11997,
 		"common": 529
 	},
 	{
@@ -92,19 +98,19 @@
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 918,
+		"ips": 925,
 		"common": 3
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15137,
+		"ips": 15150,
 		"common": 33
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4606,
+		"ips": 4622,
 		"common": 11
 	},
 	{
@@ -224,7 +230,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 319642,
+		"ips": 319643,
 		"common": 16
 	},
 	{
@@ -248,7 +254,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 249006,
+		"ips": 249014,
 		"common": 19
 	},
 	{
@@ -302,7 +308,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12607,
+		"ips": 12615,
 		"common": 31
 	},
 	{
@@ -314,7 +320,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40718,
+		"ips": 40635,
 		"common": 4
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 54851,
+		"ips": 55007,
 		"common": 803
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590242,
+		"ips": 9590279,
 		"common": 555
 	},
 	{
@@ -380,8 +386,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1350,
-		"common": 154
+		"ips": 1405,
+		"common": 172
 	},
 	{
 		"name": "haley_ssh",
@@ -392,13 +398,13 @@
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 24007,
+		"ips": 24057,
 		"common": 1
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 32746,
+		"ips": 32807,
 		"common": 2
 	},
 	{
@@ -560,8 +566,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 29933,
-		"common": 214
+		"ips": 30021,
+		"common": 215
 	},
 	{
 		"name": "nullsecure",
@@ -776,7 +782,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 4115,
+		"ips": 4114,
 		"common": 2
 	},
 	{
