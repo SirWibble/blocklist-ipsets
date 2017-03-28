@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 2767,
-		"common": 71
+		"ips": 1373,
+		"common": 67
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11878,
+		"ips": 11930,
 		"common": 117
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40670,
+		"ips": 40698,
 		"common": 1
 	},
 	{
@@ -326,13 +326,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9590155,
+		"ips": 9590206,
 		"common": 251
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27614,
+		"ips": 27617,
 		"common": 1
 	},
 	{
@@ -478,6 +478,12 @@
 		"category": "spam",
 		"ips": 1321391,
 		"common": 24
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 29761,
+		"common": 1
 	},
 	{
 		"name": "nt_ssh_7d",
