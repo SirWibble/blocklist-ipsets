@@ -27,7 +27,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268568,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -69,12 +69,6 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 319555,
-		"common": 1
-	},
-	{
-		"name": "dronebl_auto_botnets",
-		"category": "reputation",
-		"ips": 309925,
 		"common": 1
 	},
 	{
@@ -128,26 +122,26 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589589,
+		"ips": 9589554,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753500,
-		"common": 177
+		"common": 175
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1095642,
-		"common": 52
+		"common": 51
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24007,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_badpeers",
@@ -159,7 +153,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -189,13 +183,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691263,
-		"common": 32
+		"common": 33
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 25
+		"common": 27
 	},
 	{
 		"name": "iblocklist_level3",
@@ -219,7 +213,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 26
+		"common": 25
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -237,13 +231,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 173
+		"common": 172
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 171
+		"common": 168
 	},
 	{
 		"name": "sorbs_dul",
@@ -291,13 +285,13 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11179,
-		"common": 186
+		"common": 187
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "turris_greylist",

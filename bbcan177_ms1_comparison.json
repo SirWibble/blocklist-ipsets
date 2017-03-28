@@ -176,7 +176,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11361,
+		"ips": 11327,
 		"common": 12
 	},
 	{
@@ -236,7 +236,7 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 15130,
+		"ips": 15129,
 		"common": 1
 	},
 	{
@@ -494,8 +494,8 @@
 	{
 		"name": "et_botcc",
 		"category": "reputation",
-		"ips": 544,
-		"common": 2
+		"ips": 537,
+		"common": 3
 	},
 	{
 		"name": "et_dshield",
@@ -524,7 +524,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 11658,
+		"ips": 11769,
 		"common": 2
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 56202,
+		"ips": 56200,
 		"common": 267
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589589,
+		"ips": 9589554,
 		"common": 344
 	},
 	{
@@ -596,7 +596,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1820,
+		"ips": 1818,
 		"common": 2
 	},
 	{
@@ -885,6 +885,12 @@
 		"name": "maxmind_proxy_fraud",
 		"category": "anonymizers",
 		"ips": 455,
+		"common": 1
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 31993,
 		"common": 1
 	},
 	{
