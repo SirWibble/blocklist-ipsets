@@ -9,7 +9,7 @@
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 336,
-		"common": 73
+		"common": 72
 	},
 	{
 		"name": "bambenek_simda",
@@ -80,38 +80,38 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 206010,
+		"ips": 206009,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655474920,
-		"common": 73
+		"common": 72
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589596,
-		"common": 15
+		"ips": 9589607,
+		"common": 16
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753500,
-		"common": 34
+		"common": 35
 	},
 	{
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 15298,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24007,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "hphosts_exp",
@@ -129,7 +129,7 @@
 		"name": "hphosts_grm",
 		"category": "spam",
 		"ips": 312,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_hfs",
@@ -147,7 +147,7 @@
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1168,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "hphosts_pha",
@@ -183,7 +183,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691263,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "iblocklist_level2",
@@ -202,6 +202,12 @@
 		"category": "reputation",
 		"ips": 4346058,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 339021,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
@@ -231,7 +237,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "ransomware_feed",
