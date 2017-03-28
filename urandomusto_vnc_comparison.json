@@ -111,7 +111,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 163599,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "greensnow",
@@ -195,13 +195,19 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2427,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2694,
 		"common": 2
+	},
+	{
+		"name": "shunlist",
+		"category": "attacks",
+		"ips": 500,
+		"common": 1
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -236,13 +242,13 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 348,
+		"ips": 347,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 312,
+		"ips": 305,
 		"common": 1
 	},
 	{
@@ -254,13 +260,13 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 162,
+		"ips": 160,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 444,
+		"ips": 446,
 		"common": 1
 	}
 ]
