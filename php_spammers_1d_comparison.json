@@ -108,12 +108,6 @@
 		"common": 2
 	},
 	{
-		"name": "dm_tor",
-		"category": "anonymizers",
-		"ips": 6974,
-		"common": 1
-	},
-	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 319555,
@@ -158,7 +152,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40796,
+		"ips": 40861,
 		"common": 3
 	},
 	{
@@ -262,6 +256,12 @@
 		"category": "spam",
 		"ips": 1269796,
 		"common": 3
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 31588,
+		"common": 1
 	},
 	{
 		"name": "php_commenters_30d",
