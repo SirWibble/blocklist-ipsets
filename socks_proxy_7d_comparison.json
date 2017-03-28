@@ -50,19 +50,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 45705,
+		"ips": 45513,
 		"common": 820
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2359,
+		"ips": 2351,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 26888,
+		"ips": 26797,
 		"common": 820
 	},
 	{
@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11576,
+		"ips": 11593,
 		"common": 6
 	},
 	{
@@ -242,32 +242,32 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40686,
-		"common": 5424
+		"ips": 40685,
+		"common": 5425
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 55161,
+		"ips": 54969,
 		"common": 821
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 163781,
+		"ips": 163782,
 		"common": 99
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589826,
+		"ips": 9589843,
 		"common": 149
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27666,
-		"common": 5424
+		"ips": 27665,
+		"common": 5425
 	},
 	{
 		"name": "firehol_webclient",
@@ -464,8 +464,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31667,
-		"common": 215
+		"ips": 31689,
+		"common": 209
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -740,14 +740,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1718,
-		"common": 1718
+		"ips": 1703,
+		"common": 1703
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 13074,
-		"common": 5425
+		"ips": 13073,
+		"common": 5426
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -790,6 +790,12 @@
 		"category": "organizations",
 		"ips": 136184374,
 		"common": 341
+	},
+	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 3
 	},
 	{
 		"name": "sslproxies_1d",
@@ -866,7 +872,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 25412,
+		"ips": 25413,
 		"common": 3
 	},
 	{
