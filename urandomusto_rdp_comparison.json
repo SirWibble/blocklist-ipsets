@@ -20,8 +20,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1373,
-		"common": 2
+		"ips": 796,
+		"common": 1
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -74,19 +74,19 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 6370,
+		"ips": 6383,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45325,
+		"ips": 45323,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 20408,
+		"ips": 20406,
 		"common": 1
 	},
 	{
@@ -194,13 +194,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 12605,
+		"ips": 12607,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 206036,
+		"ips": 206033,
 		"common": 1
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2467,
-		"common": 22
+		"ips": 2429,
+		"common": 21
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -399,7 +399,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136184374,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "sp_atma",
@@ -440,7 +440,7 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 299,
+		"ips": 307,
 		"common": 5
 	},
 	{
@@ -458,8 +458,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 385,
+		"ips": 445,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 445,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_vnc",
