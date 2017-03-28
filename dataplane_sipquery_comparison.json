@@ -224,7 +224,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 206005,
+		"ips": 206010,
 		"common": 1
 	},
 	{
@@ -590,26 +590,20 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 341,
+		"ips": 336,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 338,
+		"ips": 331,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 110,
+		"ips": 106,
 		"common": 6
-	},
-	{
-		"name": "urandomusto_rdp",
-		"category": "attacks",
-		"ips": 151,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
@@ -620,8 +614,14 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 314,
-		"common": 61
+		"ips": 313,
+		"common": 60
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 29,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
