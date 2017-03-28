@@ -189,7 +189,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 53760,
-		"common": 63
+		"common": 64
 	},
 	{
 		"name": "dshield_7d",
@@ -207,13 +207,19 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 25181329,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
 		"common": 22
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 25175296,
+		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -224,14 +230,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 41118,
+		"ips": 41115,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 655474949,
-		"common": 21
+		"common": 22
 	},
 	{
 		"name": "firehol_level2",
@@ -242,8 +248,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 163610,
-		"common": 207
+		"ips": 163607,
+		"common": 208
 	},
 	{
 		"name": "firehol_level4",
@@ -254,20 +260,20 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 28018,
+		"ips": 28015,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 24073,
+		"ips": 24069,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34753500,
-		"common": 110
+		"common": 111
 	},
 	{
 		"name": "gofferje_sip",
@@ -285,7 +291,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656175779,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -333,7 +339,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_level3",
@@ -352,6 +358,12 @@
 		"category": "reputation",
 		"ips": 4346058,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 25180672,
+		"common": 1
 	},
 	{
 		"name": "iw_spamlist",
@@ -498,6 +510,12 @@
 		"common": 1
 	},
 	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 25180672,
+		"common": 1
+	},
+	{
 		"name": "spamhaus_edrop",
 		"category": "reputation",
 		"ips": 773888,
@@ -531,7 +549,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 553047,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "taichung",
@@ -561,7 +579,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 19938,
-		"common": 218
+		"common": 217
 	},
 	{
 		"name": "urandomusto_dns",
