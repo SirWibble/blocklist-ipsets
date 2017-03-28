@@ -134,7 +134,7 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 45370,
+		"ips": 45371,
 		"common": 3
 	},
 	{
@@ -230,13 +230,13 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 206065,
+		"ips": 206060,
 		"common": 6
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40677,
+		"ips": 40672,
 		"common": 1
 	},
 	{
@@ -266,7 +266,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27620,
+		"ips": 27616,
 		"common": 1
 	},
 	{
@@ -546,15 +546,21 @@
 		"common": 10
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 299,
+		"common": 2
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 111,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 439,
+		"ips": 448,
 		"common": 1
 	},
 	{
