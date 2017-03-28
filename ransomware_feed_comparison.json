@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11356,
+		"ips": 11344,
 		"common": 72
 	},
 	{
@@ -189,7 +189,7 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 134
+		"common": 135
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -386,14 +386,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589542,
-		"common": 361
+		"ips": 9589531,
+		"common": 362
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 24067,
-		"common": 433
+		"ips": 24066,
+		"common": 432
 	},
 	{
 		"name": "firehol_webserver",
@@ -416,7 +416,7 @@
 	{
 		"name": "gpf_comics",
 		"category": "abuse",
-		"ips": 3813,
+		"ips": 3804,
 		"common": 1
 	},
 	{
@@ -447,7 +447,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 24007,
-		"common": 4034
+		"common": 4033
 	},
 	{
 		"name": "hphosts_exp",
@@ -495,7 +495,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 24251,
-		"common": 685
+		"common": 686
 	},
 	{
 		"name": "hphosts_wrz",
@@ -609,7 +609,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139023007,
-		"common": 351
+		"common": 350
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -681,7 +681,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 226
+		"common": 227
 	},
 	{
 		"name": "lashback_ubl",
@@ -693,12 +693,12 @@
 		"name": "malwaredomainlist",
 		"category": "malware",
 		"ips": 1034,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31905,
+		"ips": 31738,
 		"common": 3
 	},
 	{
@@ -753,7 +753,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 764
+		"common": 765
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -770,8 +770,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 403,
-		"common": 403
+		"ips": 402,
+		"common": 402
 	},
 	{
 		"name": "ransomware_rw",
@@ -950,8 +950,14 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 344,
+		"ips": 341,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 308,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

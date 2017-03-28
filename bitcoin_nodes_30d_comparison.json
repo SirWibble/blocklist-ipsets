@@ -68,26 +68,26 @@
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
-		"ips": 2976,
-		"common": 2951
+		"ips": 2974,
+		"common": 2949
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
-		"ips": 607,
-		"common": 601
+		"ips": 606,
+		"common": 600
 	},
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5502,
-		"common": 5502
+		"ips": 5506,
+		"common": 5506
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 6827,
-		"common": 6827
+		"ips": 6826,
+		"common": 6826
 	},
 	{
 		"name": "bitcoin_nodes_7d",
@@ -386,7 +386,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40971,
+		"ips": 40981,
 		"common": 146
 	},
 	{
@@ -410,13 +410,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9589542,
+		"ips": 9589531,
 		"common": 34
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27971,
+		"ips": 27981,
 		"common": 4
 	},
 	{
@@ -561,7 +561,7 @@
 		"name": "iblocklist_isp_charter",
 		"category": "organizations",
 		"ips": 6138112,
-		"common": 137
+		"common": 136
 	},
 	{
 		"name": "iblocklist_isp_comcast",
@@ -861,7 +861,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 6118
+		"common": 6120
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -926,7 +926,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 704,
+		"ips": 699,
 		"common": 1
 	},
 	{
@@ -1022,7 +1022,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 309,
+		"ips": 308,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 447,
 		"common": 1
 	},
 	{
